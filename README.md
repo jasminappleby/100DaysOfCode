@@ -4,7 +4,7 @@ Going to attempt to do 100 Days Of Code, starting on the 12th Jan 2022
 
 |#| Code     | Link |
 | -----------| ----------- | ----------- |
-| 01 |[Like Button](https://github.com/jasminappleby/100DaysOfCode/tree/master/Day01)|[Website](https://piplup-like-button.netlify.app)|
+| 01 |[Like Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day01)|[Website](https://piplup-like-button.netlify.app)|
 | 02 |   x | x        |
 | 03 |   x | x        |
 | 04 |   x | x        |
