@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+    background-color: cornflowerblue;
+  }
+  
+  h1 {
+    margin-bottom: 0;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  small {
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 75px;
+  }
+  
+  .fa-heart {
+    color: red;
+  }
+  
+  .likeMe {
+    height: 440px;
+    width: 440px;
+    background: url('https://pbs.twimg.com/media/D2MQo_yXQAAl9Fq?format=jpg&name=4096x4096') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    overflow: hidden;
+  }
+  
+  .likeMe .fa-heart {
+    position: absolute;
+    animation: grow 0.6s linear;
+    transform: translate(-50%, -50%) scale(0);
+  }
+  
+  @keyframes grow {
+    to {
+      transform: translate(-50%, -50%) scale(10);
+      opacity: 0;
+    }
+  }
