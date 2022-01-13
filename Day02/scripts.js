@@ -32,3 +32,32 @@ const words = [
     "super mario",
     "vegetables"
 ];
+
+let selectedWord = words[Math.floor(Math.random() * words.length)];
+
+let playable = true;
+
+const correctLetters = [];
+const wrongLetters = [];
+
+function displayWord() {
+  wordElement.innerHTML = `
+    ${selectedWord
+      .split("") // to array
+      .map(
+        (letter) => `
+    <span class="letter">
+    ${correctLetters.includes(letter) ? letter : ""}
+    </span>
+    `
+      )
+      .join("")} 
+    `; // to string
+  const innerWord = wordElement.innerText.replace(/\n/g, "");
+  if (innerWord === selectedWord) {
+    finalMessage.innerText = "Congratulations! You won! 😃";
+    finalMessageRevealWord.innerText = "";
+    popup.style.display = "flex";
+    playable = false;
+  }
+}
