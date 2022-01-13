@@ -87,3 +87,38 @@ function updateWrongLettersElement() {
       notification.classList.remove("show");
     }, 2000);
   }
+
+  window.addEventListener("keypress", (e) => {
+    if (playable) {
+      const letter = e.key.toLowerCase();
+      if (letter >= "a" && letter <= "z") {
+        if (selectedWord.includes(letter)) {
+          if (!correctLetters.includes(letter)) {
+            correctLetters.push(letter);
+            displayWord();
+          } else {
+            showNotification();
+          }
+        } else {
+          if (!wrongLetters.includes(letter)) {
+            wrongLetters.push(letter);
+            updateWrongLettersElement();
+          } else {
+            showNotification();
+          }
+        }
+      }
+    }
+  });
+  
+  playAgainButton.addEventListener("click", () => {
+    playable = true;
+    correctLetters.splice(0);
+    wrongLetters.splice(0);
+    selectedWord = words[Math.floor(Math.random() * words.length)];
+    displayWord();
+    updateWrongLettersElement();
+    popup.style.display = "none";
+  });
+  
+  displayWord();
