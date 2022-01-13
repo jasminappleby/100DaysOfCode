@@ -61,3 +61,29 @@ function displayWord() {
     playable = false;
   }
 }
+
+function updateWrongLettersElement() {
+    wrongLettersElement.innerHTML = `
+    ${wrongLetters.length > 0 ? "<p>Wrong</p>" : ""}
+    ${wrongLetters.map((letter) => `<span>${letter}</span>`)}
+    `;
+    figureParts.forEach((part, index) => {
+      const errors = wrongLetters.length;
+      index < errors
+        ? (part.style.display = "block")
+        : (part.style.display = "none");
+    });
+    if (wrongLetters.length === figureParts.length) {
+      finalMessage.innerText = "Unfortunately you lost. 😕";
+      finalMessageRevealWord.innerText = `...the word was: ${selectedWord}`;
+      popup.style.display = "flex";
+      playable = false;
+    }
+  }
+  
+  function showNotification() {
+    notification.classList.add("show");
+    setTimeout(() => {
+      notification.classList.remove("show");
+    }, 2000);
+  }
