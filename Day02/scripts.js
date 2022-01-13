@@ -22,14 +22,12 @@ const words = [
     "lucozade",
     "supercalifragilisticexpialidocious",
     "bluebear",
-    "animal crossing",
     "nintendo",
     "money",
     "bank account",
     "manifesting",
     "gaming",
     "netflix",
-    "super mario",
     "vegetables"
 ];
 
