@@ -8,9 +8,9 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | -----------| ----------- | ----------- |
 | 01 |[Like Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day01)|[Website](https://piplup-like-button.netlify.app)|
 | 02 |[Hangman](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day02)|[Website](https://jasmins-hangman.netlify.app)|
-| 03 |   x | x        |
-| 04 |   x | x        |
-| 05 |   x | x        |
+| 03 |[Expenses Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day03)||
+| 04 |[Flash Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day04)||
+| 05 |[Exchange Rate Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day05)||
 | 06 |   x | x        |
 | 07 |   x | x        |
 | 08 |   x | x        |
