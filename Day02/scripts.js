@@ -24,7 +24,6 @@ const words = [
     "bluebear",
     "nintendo",
     "money",
-    "bank account",
     "manifesting",
     "gaming",
     "netflix",
@@ -53,7 +52,7 @@ function displayWord() {
     `; // to string
   const innerWord = wordElement.innerText.replace(/\n/g, "");
   if (innerWord === selectedWord) {
-    finalMessage.innerText = "Congratulations! You won! 😃";
+    finalMessage.innerText = "Congratulations! You win! 😁";
     finalMessageRevealWord.innerText = "";
     popup.style.display = "flex";
     playable = false;
@@ -62,8 +61,8 @@ function displayWord() {
 
 function updateWrongLettersElement() {
     wrongLettersElement.innerHTML = `
-    ${wrongLetters.length > 0 ? "<p>Wrong</p>" : ""}
-    ${wrongLetters.map((letter) => `<span>${letter}</span>`)}
+    ${wrongLetters.length > 0 ? "<p>Incorrect Letters:</p>" : ""}
+    ${wrongLetters.map((letter) => `<span> ${letter}</span>`)}
     `;
     figureParts.forEach((part, index) => {
       const errors = wrongLetters.length;
@@ -72,7 +71,7 @@ function updateWrongLettersElement() {
         : (part.style.display = "none");
     });
     if (wrongLetters.length === figureParts.length) {
-      finalMessage.innerText = "Unfortunately you lost. 😕";
+      finalMessage.innerText = "Sorry, you lost. 😢";
       finalMessageRevealWord.innerText = `...the word was: ${selectedWord}`;
       popup.style.display = "flex";
       playable = false;
