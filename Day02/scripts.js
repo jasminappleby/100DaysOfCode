@@ -10,3 +10,25 @@ const finalMessageRevealWord = document.getElementById(
 const figureParts = document.querySelectorAll(".figure-part");
 
 
+const words = [
+    "squish",
+    "frog",
+    "pokemon",
+    "piplup",
+    "pizza",
+    "jollof",
+    "supermalt",
+    "chicken",
+    "lucozade",
+    "supercalifragilisticexpialidocious",
+    "bluebear",
+    "animal crossing",
+    "nintendo",
+    "money",
+    "bank account",
+    "manifesting",
+    "gaming",
+    "netflix",
+    "super mario",
+    "vegetables"
+];
