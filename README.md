@@ -20,16 +20,16 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 07 |[Weight Converter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day07)| x        |
 | 08 |[Bouncing Balls](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day08)| x        |
 | 09 |[Tax Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day09)| x        |
-| 10 |   x | x        |
-| 11 |   x | x        |
-| 12 |   x | x        |
-| 13 |   x | x        |
-| 14 |   x | x        |
-| 15 |   x | x        |
-| 16 |   x | x        |
-| 17 |   x | x        |
-| 18 |   x | x        |
-| 19 |   x | x        |
+| 10 |[Random Meal Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day10)| x        |
+| 11 |[New Year Countdown](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day11)| x        |
+| 12 |[Top 10](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day12)| x        |
+| 13 |[Block Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day13)| x        |
+| 14 |[Colour Background Changer](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day14)| x        |
+| 15 |[Random Word Selector](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day15)| x        |
+| 16 |[Loading Background](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day16)| x        |
+| 17 |[Live Visitor Counter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day17)| x        |
+| 18 |[Accordion FAQs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day18)| x        |
+| 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)| x        |
 | 20 |   x | x        |
 | 21 |   x | x        |
 | 22 |   x | x        |
