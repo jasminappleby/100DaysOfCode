@@ -53,3 +53,50 @@ function createCard(data, index) {
     updateCurrentText();
 }
   
+function updateCurrentText() {
+    currentElement.innerText = `${currentActiveCard + 1}/${cardsElement.length}`;
+}
+
+nextButton.addEventListener("click", () => {
+    cardsElement[currentActiveCard].className = "card left";
+    currentActiveCard++;
+        if (currentActiveCard > cardsElement.length - 1) {
+            currentActiveCard = 0;
+        }
+    cardsElement[currentActiveCard].className = "card active";
+    updateCurrentText();
+});
+  
+prevButton.addEventListener("click", () => {
+    cardsElement[currentActiveCard].className = "card right";
+    currentActiveCard--;
+        if (currentActiveCard < 0) {
+            currentActiveCard = cardsElement.length - 1;
+        }
+    cardsElement[currentActiveCard].className = "card active";
+    updateCurrentText();
+});
+  
+showButton.addEventListener("click", () => addContainer.classList.add("show"));
+
+hideButton.addEventListener("click", () => addContainer.classList.remove("show"));
+  
+addCardButton.addEventListener("click", () => {
+    const question = questionElement.value;
+    const answer = answerElement.value;
+    if (question.trim() && answer.trim()) {
+        const newCard = { question, answer };
+        createCard(newCard);
+        questionElement.value = "";
+        answerElement.value = "";
+        addContainer.classList.remove("show");
+        cardsData.push(newCard);
+    }
+});
+  
+clearButton.addEventListener("click", () => {
+    cardsContainer.innerHTML = "";
+    currentElement.innerText = "";
+});
+  
+createCards();
