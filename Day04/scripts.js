@@ -57,6 +57,7 @@ function updateCurrentText() {
     currentElement.innerText = `${currentActiveCard + 1}/${cardsElement.length}`;
 }
 
+
 nextButton.addEventListener("click", () => {
     cardsElement[currentActiveCard].className = "card left";
     currentActiveCard++;
