@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+:root {
+    --background-color: #3762ff;
+    --primary-color: #dbd1a3;
+    --secondary-color: #f5f7fa;
+    --text-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-color);
+    background-image: linear-gradient(315deg, var(--background-color) 0%, var(--secondary-background-color) 100%);
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 0;
+    height: 75vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+h1 {
+    margin: 20px 0 0;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+}
+
+.currency, .swap-rate-container, p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
