@@ -16,7 +16,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 03 |[Expenses Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day03)|[Website](https://jasmins-expenses-tracker.netlify.app)|
 | 04 |[Flash Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day04)|[Website](https://jasmins-flashcards.netlify.app)|
 | 05 |[Exchange Rate Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day05)|[Website](https://jasmins-rate-exchanger.netlify.app)|
-| 06 |[Expanding Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day06)| x        |
+| 06 |[Expanding Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day06)|[Website](https://pokemon-expanding-cards.netlify.app)|
 | 07 |[Weight Converter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day07)| x        |
 | 08 |[Bouncing Balls](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day08)| x        |
 | 09 |[Tax Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day09)| x        |
