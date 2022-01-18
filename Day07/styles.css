@@ -26,3 +26,7 @@ input {
 .successful {
     color: #008000;
 }
+
+.img {
+    height: 75px;
+}
