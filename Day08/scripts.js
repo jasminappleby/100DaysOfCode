@@ -9,14 +9,6 @@ canvas.height = ty;
 
 let mousex = 0;
 let mousey = 0;
-
-//ball will grow if hovered over
-
-addEventListener("mousemove", function() {
-  mousex = clientX;
-  mousey = clientY;
-});
-
 let grav = 0.99;
 c.strokeWidth=5;
 
@@ -58,7 +50,7 @@ function Ball() {
 //adds 500!! balls to the page
 
 let bal = [];
-for (let i=0; i<500; i++){
+for (let i=0; i<50; i++){
     bal.push(new Ball());
 }
 
