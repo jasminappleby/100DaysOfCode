@@ -9,6 +9,37 @@
     <title>Percentage Calculator</title>
 </head>
 <body>
-    
+    <div id="container">
+
+        <h1>Percentage Calculator</h1>
+        <div id="calculator">
+      
+      
+            <form>
+                <p>How much are your items in total?<p>
+
+                £<input id="totalItems" type="text" placeholder="Total Amount">
+      
+                <p>How much percentage off do you have?<p>
+
+                <select id="percentageOff">
+                  <option disabled selected value="0">-- Choose an Option --</option>
+                  <option value="0.5">50%</option>
+                  <option value="0.3">30%</option>
+                  <option value="0.2">20%</option>
+                  <option value="0.15">15%</option>
+                  <option value="0.1">10%</option>
+                  <option value="0.05">5%</option>
+                </select>
+            </form>
+        </div>
+
+        <div id="totalPrice">
+          <sup>£</sup><span id="price">0.00</span>
+        </div>
+
+      
+    </div>
+
 </body>
 </html>
