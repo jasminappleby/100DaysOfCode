@@ -12,39 +12,42 @@
     <div id="container">
 
         <h1>Discount Calculator</h1>
+        <hr>
         <div id="calculator">
             
-            <p>Stop wasting your time adding things to your basket and going through the checkout process to see how much money you can get off your items, do it through this website!</p>
-      
+            
             <form>
-                <p>How much are your items in total?<p>
+                <p class="body">How much are your items in total?<p>
+                    
+                    <p class="body">£<input id="totalItems" type="text" placeholder="Total Amount"></p>
+                    
+                    <p class="body">How much discount off do you have?<p>
+                        
+                        <select id="percentageOff" class="body">
+                            <option disabled selected value="0">-- Choose an Option --</option>
+                            <option value="0.5">50%</option>
+                            <option value="0.7">30%</option>
+                            <option value="0.75">25%</option>
+                            <option value="0.8">20%</option>
+                            <option value="0.85">15%</option>
+                            <option value="0.9">10%</option>
+                            <option value="0.95">5%</option>
+                        </select>
+                    </form>
+                    
+                    <button type="button" id="calculate">Calculate!</button>
+                    
+                </div>
+                
+                <div id="totalPrice">
+                    <sup>£</sup><span id="price">0.00</span>
+                </div>
 
-                £<input id="totalItems" type="text" placeholder="Total Amount">
-      
-                <p>How much discount off do you have?<p>
 
-                <select id="percentageOff">
-                  <option disabled selected value="0">-- Choose an Option --</option>
-                  <option value="0.5">50%</option>
-                  <option value="0.7">30%</option>
-                  <option value="0.75">25%</option>
-                  <option value="0.8">20%</option>
-                  <option value="0.85">15%</option>
-                  <option value="0.9">10%</option>
-                  <option value="0.95">5%</option>
-                </select>
-            </form>
-
-            <button type="button" id="calculate">Calculate!</button>
-
-        </div>
-
-        <div id="totalPrice">
-          <sup>£</sup><span id="price">0.00</span>
-        </div>
-
-      
-    </div>
-
+                <hr>
+                <p class="foot">Stop wasting your time trying to work out how much discount you'll get off, do it through this website!</p>
+                
+            </div>
+            
 </body>
 </html>

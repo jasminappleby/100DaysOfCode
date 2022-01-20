@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body {
+    background: #36008e;
+    font-family: 'Poppins', sans-serif;
+}
+
+#container {
+    height: 100%;
+    width: 360px;
+    margin: 100px auto;
+    background: #f7f7f7;
+    box-shadow: 15px 15px 15px 15px rgba(0, 0, 0, 0.339);
+}
+
+h1 {
+    font-family: 'Mochiy Pop P One', sans-serif;    
+    color: #36008e;
+    padding: 30px 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+hr {
+    width: 90%;
+    border-style: dashed;
+    color: rgba(128, 128, 128, 0.237);
+}
+  
+.body {
+    padding-left: 20px;
+}
+
+.foot {
+    text-align: center;
+    padding: 10px;
+}
+    
+#totalItems {
+    font-size: 14px;
+    background-color: #f7f7f7;
+    width: 60%;
+    padding: 5px 5px 8px 8px;
+}
+  
+#totalItems:focus {
+    background: #fff;
+    border: 3px solid #36008e81;
+    outline: none;
+}  
+
+#percentageOff {
+    padding: 13px 13px 20px 20px;
+    margin-left: 25px;
+    font-size: 25px;
+}
+  
+button {
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto;
+    background: #36008ed8;
+    border-radius: 5px;
+    width:125px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+}
+  
+button:hover {
+    background: #36008e81;
+    border-bottom-color: #111;
+}
+  
+button:active {
+    position: relative;
+    top: 1px;
+}
+  
+#totalPrice {
+    font-size: 30px;
+    margin-top: 5px;
+    text-align: right;
+    padding: 10px;
+}
+  
+#totalPrice:before {
+    content: "Total after discount:";
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+    text-transform: uppercase;
+}
+  
+#totalPrice sup {
+    font-size: 20px;
+    top: -18px;
+}
+  
+#totalPrice small {
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
