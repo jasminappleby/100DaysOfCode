@@ -12,13 +12,13 @@ body {
 	align-items: center;
 	justify-content: center;
     font-family: 'Raleway', sans-serif;
-    height: 100vh;
 	overflow: hidden;
+    height: 100vh;
 	margin: 0;
 	text-align: center;
 }
 
-.fa-snowflake {
+.fa-head-side-cough {
 	color: rgb(0, 255, 38);
 	position: absolute;
 	top: -20px;

@@ -28,7 +28,7 @@ function createGerm() {
 	germ.classList.add('fas');
 	germ.classList.add('fa-head-side-cough');
 	germ.style.left = Math.random() * window.innerWidth + 'px';
-	germ.style.animationDuration = Math.random() * 3 + 2 + 's'; // between 2 - 5 seconds
+	germ.style.animationDuration = Math.random() * 3 + 2 + 's';
 	germ.style.opacity = Math.random();
 	germ.style.fontSize = Math.random() * 10 + 10 + 'px';
 	
