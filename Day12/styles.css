@@ -15,14 +15,6 @@ body {
 	margin: 0 0 50px;
 }
 
-a {
-	color: #3498db;
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
 h1 {
 	margin-bottom: 20px;
 	text-align: center;
@@ -43,7 +35,7 @@ table tr th {
 	font-size: 12px;
 	padding: 10px;
 	text-transform: uppercase;
-	text-align: left;
+	text-align: center;
 }
 
 table tr {
