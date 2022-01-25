@@ -110,6 +110,6 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 97 |   x | x        |
 | 98 |   x | x        |
 | 99 |   x | x        |
-| 100 |   x | x        |
+| 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day100)| x        |
 
 
