@@ -30,7 +30,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 17 |[Live Visitor Counter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day17)| x        |
 | 18 |[Accordion FAQs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day18)| x        |
 | 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)| x        |
-| 20 |   x | x        |
+| 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)| x        |
 | 21 |   x | x        |
 | 22 |   x | x        |
 | 23 |   x | x        |
@@ -60,7 +60,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 47 |   x | x        |
 | 48 |   x | x        |
 | 49 |   x | x        |
-| 50 |   x | x        |
+| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)| x        |
 | 51 |   x | x        |
 | 52 |   x | x        |
 | 53 |   x | x        |
