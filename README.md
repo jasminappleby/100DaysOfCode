@@ -26,8 +26,8 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 13 |[Block Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day13)|[Website](https://rgb-randomiser.netlify.app)|
 | 14 |[RBG Randomiser](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day14)|[Website](https://rgb-randomiser.netlify.app)|
 | 15 |[Random Word Selector](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day15)|[Website](https://word-randomiser.netlify.app)|
-| 16 |[Loading Background](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day16)|[Website](#)|
-| 17 |[Live Visitor Counter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day17)|[Website](#)|
+| 16 |[Loading Background](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day16)|[Website](https://js-unblur-effect.netlify.app)|
+| 17 |[Live Visitor Counter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day17)|[Website](https://floating-views.netlify.app)|
 | 18 |[Accordion FAQs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day18)|[Website](#)
 | 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)|[Website](#)|
 | 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)|[Website](#)|
