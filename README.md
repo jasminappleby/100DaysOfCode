@@ -28,8 +28,8 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 15 |[Random Word Selector](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day15)|[Website](https://word-randomiser.netlify.app)|
 | 16 |[Loading Background](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day16)|[Website](https://js-unblur-effect.netlify.app)|
 | 17 |[Live Visitor Counter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day17)|[Website](https://floating-views.netlify.app)|
-| 18 |[Accordion FAQs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day18)|[Website](#)
-| 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)|[Website](#)|
+| 18 |[Accordion FAQs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day18)|[Website](https://goofy-goldberg-632d61.netlify.app)|
+| 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)|[Website](https://sinnoh-dex.netlify.app)|
 | 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)|[Website](#)|
 | 21 |[Alphabet Events](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day21)|[Website](#)|
 | 22 |[Tic Tac Toe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day22)|[Website](#)|
