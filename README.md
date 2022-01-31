@@ -30,7 +30,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 17 |[Live Visitor Counter](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day17)|[Website](https://floating-views.netlify.app)|
 | 18 |[Accordion FAQs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day18)|[Website](https://goofy-goldberg-632d61.netlify.app)|
 | 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)|[Website](https://sinnoh-dex.netlify.app)|
-| 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)|[Website](#)|
+| 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)|[Website](https://rolling-die-game.netlify.app)|
 | 21 |[Alphabet Events](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day21)|[Website](#)|
 | 22 |[Tic Tac Toe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day22)|[Website](#)|
 | 23 |[Notes App](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day23)|[Website](#)|
@@ -38,8 +38,8 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 25 |[Ripple Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day25)|[Website](#)|
 | 26 |[YouTube to MP3](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day26)|[Website](#)|
 | 27 |[Reveal On Scroll](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day27)|[Website](#)|
-| 28 |[Pattern Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day22)|[Website](#)|
-| 29 |   x | x        |
+| 28 |[Pattern Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day28)|[Website](#)|
+| 29 |[Ludo](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](#)|
 | 30 |   x | x        |
 | 31 |   x | x        |
 | 32 |   x | x        |
