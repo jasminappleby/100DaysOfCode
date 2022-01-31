@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Staatliches&display=swap');
+
 .container {
     margin: 0 auto;
     text-align: center;
@@ -8,6 +10,17 @@
 
 body {
     background-color: #150476;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    padding-top: 20px;
 }
 
 .dice {
@@ -32,4 +45,5 @@ body {
     background: #35393e;
     text-decoration: none;
     transition: 0.3s;
+    cursor: pointer;
 }
