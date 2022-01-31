@@ -1,10 +1,35 @@
 .container {
     margin: 0 auto;
     text-align: center;
+    background-color: #f7f7f789;
+    width: 30%;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #150476;
 }
 
 .dice {
     text-align: center;
     display: inline-block;
     margin: 10px;
+}
+
+.bottom {
+    padding-bottom: 20px;
+}
+
+.btn {
+    background: rgba(78, 133, 204, 0.805);
+    color: #ffff;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn:hover {
+    background: #35393e;
+    text-decoration: none;
+    transition: 0.3s;
 }
