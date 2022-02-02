@@ -32,7 +32,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 19 |[Pokedex](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day19)|[Website](https://sinnoh-dex.netlify.app)|
 | 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)|[Website](https://rolling-die-game.netlify.app)|
 | 21 |[Key Events](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day21)|[Website](https://laughing-montalcini-95e930.netlify.app)|
-| 22 |[Tic Tac Toe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day22)|[Website](#)|
+| 22 |[Tic Tac Toe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day22)|[Website](https://tic-tac-toe-jasmin.netlify.app)|
 | 23 |[Notes App](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day23)|[Website](#)|
 | 24 |[Password Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day24)|[Website](#)|
 | 25 |[Ripple Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day25)|[Website](#)|
