@@ -12,8 +12,6 @@ function validVideoId(id) {
 }
 
 function checkThumbnail(width) {
-	//HACK a mq thumbnail has width of 320.
-	//if the video does not exist(therefore thumbnail don't exist), a default thumbnail of 120 width is returned.
 	if (width === 120) {
 		alert("Error: Invalid video id");
 		btnMp3.style.display = "none";
