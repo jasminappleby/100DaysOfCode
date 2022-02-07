@@ -37,7 +37,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 24 |[Password Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day24)|[Website](https://password-generator-jasmin.netlify.app)|
 | 25 |[Ripple Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day25)|[Website](https://unruffled-ramanujan-974bbb.netlify.app)|
 | 26 |[YouTube to MP3](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day26)|[Website](https://yt2mp3.netlify.app)|
-| 27 |[Reveal On Scroll](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day27)|[Website](#)|
+| 27 |[Reveal On Scroll](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day27)|[Website](https://arceus-and-scroll.netlify.app)|
 | 28 |[Pattern Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day28)|[Website](#)|
 | 29 |[Ludo](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](#)|
 | 30 |   x | x        |
