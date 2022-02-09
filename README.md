@@ -39,7 +39,7 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 26 |[YouTube to MP3](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day26)|[Website](https://yt2mp3.netlify.app)|
 | 27 |[Reveal On Scroll](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day27)|[Website](https://arceus-and-scroll.netlify.app)|
 | 28 |[Pattern Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day28)|[Website](https://random-rgb-pattern.netlify.app)|
-| 29 |[Pokémon Search](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](#)|
+| 29 |[Pokémon Finder](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](https://jasmins-poke-finder.netlify.app)|
 | 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|[Website](#)|
 | 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Website](#)|
 | 32 |   x | x        |
