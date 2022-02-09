@@ -20,10 +20,17 @@ body {
 }
 
 img {
-    width: 25rem;
-	height: 25rem;
-	object-fit: cover;
+    width: 500px;
 	image-rendering: pixelated;
+}
+
+.arrow {
+    width: 30px;
+    height: 40px;
+}
+
+.arrow:hover {
+    background-color: rgb(200, 200, 200);
 }
 
 input {
