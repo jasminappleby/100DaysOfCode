@@ -9,6 +9,12 @@
     <title>Poké Finder</title>
 </head>
 <body>
-    
+    <div id='imrow'>
+		<button onclick="previous()">&#9665</button>
+		<img id="poke_out"></img>
+		<button onclick="next()">&#9655</button>
+	</div>	
+	<input id="poke_in" onchange="getPic()"></input>
+    <div id='progress'>Enter a pokemon name or number!</div>
 </body>
 </html>
