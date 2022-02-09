@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+
+#imrow {
+	display: flex;
+}
+
+button {
+	font-size: 4rem;
+	width: 5rem;
+	border-style: none;
+	background-color: white;
+	cursor: pointer;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+img {
+    width: 25rem;
+	height: 25rem;
+	object-fit: cover;
+	image-rendering: pixelated;
+}
+
+input {
+    margin: 0.5rem;
+    border-color: rgb(0, 0, 0);
+    border-style: outset;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: 'VT323', monospace;
+}
+
+input:hover{
+    border-style: inset;
+}
