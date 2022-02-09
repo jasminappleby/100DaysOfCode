@@ -42,15 +42,15 @@ Flash Cards - Flipping the card over does not work on Safari, unknown as to why.
 | 29 |[Pokémon Finder](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](https://jasmins-poke-finder.netlify.app)|
 | 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|[Website](#)|
 | 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Website](#)|
-| 32 |   x | x        |
-| 33 |   x | x        |
-| 34 |   x | x        |
-| 35 |   x | x        |
-| 36 |   x | x        |
-| 37 |   x | x        |
-| 38 |   x | x        |
-| 39 |   x | x        |
-| 40 |   x | x        |
+| 32 |[Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day32)|[Website](#)|
+| 33 |[Snake](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day33)|[Website](#)|
+| 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](#)|
+| 35 |[Dino Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day35)|[Website](#)|
+| 36 |[Draw Pattern](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day36)|[Website](#)|
+| 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](#)|
+| 38 |[Game of Life](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](#)|
+| 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](#)|
+| 40 |[Stop Watch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](#)|
 | 41 |   x | x        |
 | 42 |   x | x        |
 | 43 |   x | x        |
