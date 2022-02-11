@@ -5,7 +5,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 
 ## Edit notes
 
-Flash Cards - Flipping the card over does not work on Safari, unknown as to why. 
+- Flash Cards - Flipping the card over does not work on Safari, unknown as to why. 
+- I did not complete day 30 due to illness, so I added an image of what I managed with 1 hour 
 
 ## Contents
 
