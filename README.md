@@ -24,7 +24,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 10 |[Random Meal Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day10)|[Website](https://randomise-your-din-dins.netlify.app)|
 | 11 |[New Year Countdown](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day11)|[Website](https://covid-free-year-countdown.netlify.app)|
 | 12 |[Top 10 Pokemon in 2021](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day12)|[Website](https://top-ten-pokemon-2021.netlify.app)|
-| 13 |[Block Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day13)|[Website](https://rgb-randomiser.netlify.app)|
+| 13 |[Block Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day13)|[Website](https://minecraft-block-clock.netlify.app)|
 | 14 |[RBG Randomiser](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day14)|[Website](https://rgb-randomiser.netlify.app)|
 | 15 |[Random Word Selector](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day15)|[Website](https://word-randomiser.netlify.app)|
 | 16 |[Loading Background](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day16)|[Website](https://js-unblur-effect.netlify.app)|
@@ -41,8 +41,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 27 |[Reveal On Scroll](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day27)|[Website](https://arceus-and-scroll.netlify.app)|
 | 28 |[Pattern Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day28)|[Website](https://random-rgb-pattern.netlify.app)|
 | 29 |[Pokémon Finder](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](https://jasmins-poke-finder.netlify.app)|
-| 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|![Image](day30.png)|
-| 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Website](#)|
+| 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|![Image](imgs&gifs/day30.png)|
+| 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|![Gif](imgs&gifs/day31.png)|
 | 32 |[Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day32)|[Website](#)|
 | 33 |[Snake](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day33)|[Website](#)|
 | 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](#)|
