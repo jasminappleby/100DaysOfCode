@@ -3,4 +3,12 @@
     --gray: #eee;
     --red: #e53935;
     --black: #212121;
-  }
+}
+
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    background-color: var(--gray);  
+}
