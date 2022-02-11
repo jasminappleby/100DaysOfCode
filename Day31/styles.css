@@ -12,3 +12,18 @@
 body {
     background-color: var(--gray);  
 }
+
+.pokeball {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(to bottom, var(--red), var(--red) 48%, var(--black) 48%, var(--black) 55%, var(--white) 55%);
+    border-radius: 50%;
+    border: 20px solid var(--black);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2), inset 8px 5px 0 rgba(0, 0, 0, 0.2);
+    animation-duration: 900ms;
+    animation-name: shake;
+    animation-iteration-count: infinite;
+}
+  
+  
