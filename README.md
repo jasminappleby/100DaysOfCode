@@ -6,7 +6,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 ## Edit notes
 
 - Flash Cards - Flipping the card over does not work on Safari, unknown as to why. 
-- I did not complete day 30 due to illness, so I added an image of what I managed with 1 hour 
+- I did not complete day 30 due to illness, so I added an image of what I managed to do within an hour
+- I was unwell from Feb 2nd (Day 22) to Feb 12th (Day 32), so some of the projects in between those days may be sloppier than others. It wasn't covid, but it might as well have been because it took over my life
 
 ## Contents
 
