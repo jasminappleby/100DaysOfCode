@@ -45,14 +45,14 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|[Image](imgs&gifs/day30.png)|
 | 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Gif](imgs&gifs/day31.gif)|
 | 32 |[Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day32)|[Website](https://dark-to-light-calc.netlify.app)|
-| 33 |[Snake](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day33)|[Website](#)|
+| 33 |[Stop Watch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](#)|
 | 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](#)|
 | 35 |[Dino Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day35)|[Website](#)|
 | 36 |[Draw Pattern](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day36)|[Website](#)|
 | 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](#)|
 | 38 |[Game of Life](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](#)|
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](#)|
-| 40 |[Stop Watch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](#)|
+| 40 |   x | x        |
 | 41 |   x | x        |
 | 42 |   x | x        |
 | 43 |   x | x        |
