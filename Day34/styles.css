@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&family=Zen+Kaku+Gothic+Antique&display=swap');
+
 body {
     background-color: #000;
 }
@@ -6,9 +8,25 @@ canvas {
     background-color: #333;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 60%;
     transform: translate(-50%, -50%);
     width: 600px;
     height: 400px;
     border: 2px solid black;
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+h1, p {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;    
+    color: aliceblue;
+    text-align: center;
+}
+
+.small {
+
 }

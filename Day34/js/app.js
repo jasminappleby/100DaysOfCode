@@ -47,7 +47,7 @@ window.addEventListener("keydown", (event) => {
             (bird.y > canvas.height - pipArr[i].bottom &&
                 bird.y + bird.height < canvas.height))
         ) {
-            ctx.font = "1.5rem Georgia";
+            ctx.font = "20px Georgia";
             ctx.fillStyle = "white";
             ctx.fillText(
             "Game Over! You scored " + score,
