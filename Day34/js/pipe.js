@@ -1,38 +1,37 @@
-const array = [];
+const pipArr = [];
 
-class Particles {
+class Pipes {
     constructor() {
-        this.x = bird.x;
-        this.y = bird.y;
-        this.size = Math.random() * 7 + 3;
-        this.speedY = Math.random() * 1 - 0.5;
+        this.top = (Math.random() * canvas.height) / 3 + 20;
+        this.bottom = (Math.random() * canvas.height) / 3 + 20;
+        this.x = canvas.width;
+        this.width = 20;
         this.color = "hsl(" + hue + ",100%,50%)";
+        this.counted = false;
     }
-
-    update() {
-        this.x -= gameSpeed;
-        this.y += this.speedY;
-    }
-
     draw() {
         ctx.fillStyle = this.color;
-        ctx.beginPath();
-        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-        ctx.fill();
+        ctx.fillRect(this.x, 0, this.width, this.top);
+        ctx.fillRect(this.x, canvas.height - this.bottom, this.width, this.bottom);
     }
-
-}
-
-    function handlePar() {
-    array.unshift(new Particles());
-    for (let i = 0; i < array.length; i++) {
-        array[i].update();
-        array[i].draw();
-    }
-    
-    if (array.length > 200) {
-        for (let i = 0; i < 20; i++) {
-        array.pop(array[i]);
+    update() {
+        this.x -= gameSpeed;
+        if (!this.counted && this.x < bird.x) {
+        score++;
+        this.counted = true;
         }
+        this.draw();
+    }
+    }
+
+    function handlePip() {
+    if (frame % 100 == 0) {
+        pipArr.unshift(new Pipes());
+    }
+    for (let i = 0; i < pipArr.length; i++) {
+        pipArr[i].update();
+    }
+    if (pipArr > 20) {
+        pipArr.pop(pipArr[0]);
     }
 }
