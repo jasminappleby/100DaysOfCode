@@ -28,4 +28,33 @@ function animate() {
     frame++;
 }
 
-    animate();
+animate();
+
+window.addEventListener("keydown", (event) => {
+        if (event.code === "Space") spacePressed = true;
+    });
+    
+    window.addEventListener("keyup", (event) => {
+        if (event.code === "Space") spacePressed = false;
+    });
+    
+    function collide() {
+        for (let i = 0; i < pipArr.length; i++) {
+        if (
+            bird.x < pipArr[i].x + pipArr[i].width &&
+            bird.x + bird.width > pipArr[i].x &&
+            ((bird.y < 0 + pipArr[i].top && bird.y + bird.height > 0) ||
+            (bird.y > canvas.height - pipArr[i].bottom &&
+                bird.y + bird.height < canvas.height))
+        ) {
+            ctx.font = "1.5rem Georgia";
+            ctx.fillStyle = "white";
+            ctx.fillText(
+            "Game Over! You scored " + score,
+            180,
+            canvas.height / 2 - 10
+            );
+            return true;
+            }
+        }
+  }
