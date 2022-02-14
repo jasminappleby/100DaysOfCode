@@ -46,7 +46,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Gif](imgs&gifs/day31.gif)|
 | 32 |[Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day32)|[Website](https://dark-to-light-calc.netlify.app)|
 | 33 |[Stop Watch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](https://jasmins-stop-watch.netlify.app)|
-| 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](#)|
+| 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](https://bootleg-flappy-bird.netlify.app)|
 | 35 |[Dino Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day35)|[Website](#)|
 | 36 |[Draw Pattern](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day36)|[Website](#)|
 | 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](#)|
