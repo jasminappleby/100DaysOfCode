@@ -90,8 +90,8 @@ body {
 }
 
 #btn {
-    padding: 1rem;
-    font-size: 1rem;
+    padding: 25px;
+    font-size: large;
     margin-top: 2.5%;
     cursor: pointer;
 }
