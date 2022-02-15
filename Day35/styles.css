@@ -62,12 +62,12 @@ body {
 
 #block {
     width: 20px;
-    height: 30px;
+    height: 25px;
     background-color: rgb(95, 129, 37);
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     position: relative;
-    top: 107px;
+    top: 112px;
     left: 480px;
     animation: block 2.5s linear infinite;
 }

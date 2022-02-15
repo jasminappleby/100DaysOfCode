@@ -16,3 +16,21 @@ jumpBtn.addEventListener("click", () => {
     jump();
 });
 
+document.addEventListener('keyup', event => {
+    if (event.code === 'Space') {
+      jump();
+    }
+})
+
+function jump() {
+    if (character.classList != "animate") {
+      character.classList.add("animate");
+  
+      count++;
+      score.innerText = "Score : " + count;
+    }
+    setTimeout(() => {
+      character.classList.remove("animate");
+    }, 500);
+}
+
