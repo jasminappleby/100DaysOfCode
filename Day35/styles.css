@@ -15,6 +15,14 @@ body {
     flex-direction: column;
 }
 
+.d, .n, .exclaim {
+    color: #006400;
+}
+
+.i, .o {
+    color: #5f8125;
+}
+
 #score {
     font-size: 2rem;
     margin-bottom: 10%;
@@ -63,7 +71,7 @@ body {
 #block {
     width: 20px;
     height: 20px;
-    background-color: rgb(95, 129, 37);
+    background-color: #5f8125;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     position: relative;
