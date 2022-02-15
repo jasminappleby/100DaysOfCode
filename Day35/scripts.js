@@ -1,6 +1,5 @@
 const character = document.getElementById("character");
 const block = document.getElementById("block");
-const score = document.getElementById("score");
 const jumpBtn = document.getElementById("btn");
 const message = document.getElementById("message");
 
@@ -19,7 +18,9 @@ jumpBtn.addEventListener("click", () => {
 function jump() {
     if (character.classList != "animate") {
       character.classList.add("animate");
+    
     }
+
     setTimeout(() => {
       character.classList.remove("animate");
     }, 500);
@@ -35,11 +36,11 @@ const checkDead = setInterval(() => {
     );
   
     if (blockLeft < 20 && blockLeft > 0 && charTop >= 130) {
-      block.style.animation = "none";
-      block.style.display = "none";
-      message.style.opacity = "1";
-      alert(
-        "You lost! Refresh the page to restart the game"
-      );
-    }
-  }, 10);
+        block.style.animation = "none";
+        block.style.display = "none";
+        message.style.opacity = "1";
+        alert(
+          "You lost! Refresh the page to restart the game"
+        );
+      }
+    }, 10);
