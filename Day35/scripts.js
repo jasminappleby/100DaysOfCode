@@ -16,21 +16,30 @@ jumpBtn.addEventListener("click", () => {
     jump();
 });
 
-document.addEventListener('keyup', event => {
-    if (event.code === 'Space') {
-      jump();
-    }
-})
-
 function jump() {
     if (character.classList != "animate") {
       character.classList.add("animate");
-  
-      count++;
-      score.innerText = "Score : " + count;
     }
     setTimeout(() => {
       character.classList.remove("animate");
     }, 500);
 }
 
+const checkDead = setInterval(() => {
+    const charTop = parseInt(
+      window.getComputedStyle(character).getPropertyValue("top")
+    );
+
+    const blockLeft = parseInt(
+      window.getComputedStyle(block).getPropertyValue("left")
+    );
+  
+    if (blockLeft < 20 && blockLeft > 0 && charTop >= 130) {
+      block.style.animation = "none";
+      block.style.display = "none";
+      message.style.opacity = "1";
+      alert(
+        "You lost! Refresh the page to restart the game"
+      );
+    }
+  }, 10);
