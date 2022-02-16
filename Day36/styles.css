@@ -12,3 +12,8 @@
 body {
     background: var(--gradient) no-repeat center center fixed;
 }
+
+canvas {
+    position: fixed;
+    margin: 0px;
+}
