@@ -48,7 +48,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 33 |[Stop Watch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](https://jasmins-stop-watch.netlify.app)|
 | 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](https://bootleg-flappy-bird.netlify.app)|
 | 35 |[Dino Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day35)|[Website](https://dino-jumpy-game.netlify.app)|
-| 36 |[Draw Pattern](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day36)|[Website](#)|
+| 36 |[Draw Pattern](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day36)|[Website](https://draw-purple-things.netlify.app)|
 | 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](#)|
 | 38 |[Game of Life](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](#)|
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](#)|
