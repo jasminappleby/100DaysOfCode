@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Recursive:wght@500&display=swap");
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -12,44 +10,36 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  flex-direction: column;
+  flex-direction: row;
   background-color: #333;
 }
 
-h1 {
-  text-align: center;
-  margin: 1rem;
-  color: #fff;
-  font-size: 2rem;
-  margin-top: 0rem;
+.fill {
+    background-image: url('https://media0.giphy.com/media/3o7TKEW3oxdTPQnIEU/giphy.gif');
+    background-position: center;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 40vw;
-  margin: 0 auto;
-  background-color: #555;
-  flex-wrap: wrap;
+.hold {
+    border: solid 5px #ccc;
 }
 
-.box {
-  width: 10vw;
-  height: 10vh;
-  cursor: move;
-  position: relative;
+.empty {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    background: white;
 }
-
-.one {
-    color: violet;
+  
+.hovered {
+    background: #f4f4f4;
+    border-style: dashed;
 }
-
-.two {
-    color: black;
-}
-
-.drag-enter {
-    border: 2px dashed darkblue;
-}
+  
   
