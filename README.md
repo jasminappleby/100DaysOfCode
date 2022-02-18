@@ -50,7 +50,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 35 |[Dino Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day35)|[Website](https://dino-jumpy-game.netlify.app)|
 | 36 |[Draw Pattern](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day36)|[Website](https://draw-purple-things.netlify.app)|
 | 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](https://drag-n-death-drop.netlify.app)|
-| 38 |[Pixels](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](#)|
+| 38 |[Pixels](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](https://dna-pixels.netlify.app)|
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](#)|
 | 40 |   x | x        |
 | 41 |   x | x        |
