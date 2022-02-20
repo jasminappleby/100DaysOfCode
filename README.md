@@ -52,7 +52,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](https://drag-n-death-drop.netlify.app)|
 | 38 |[Pixels](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](https://dna-pixels.netlify.app)|
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](https://catchpa-generator.netlify.app)|
-| 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](#)|
+| 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Unfinished](#)|
 | 41 |   x | x        |
 | 42 |   x | x        |
 | 43 |   x | x        |
@@ -62,7 +62,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 47 |   x | x        |
 | 48 |   x | x        |
 | 49 |   x | x        |
-| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website]()|
+| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](#)|
 | 51 |   x | x        |
 | 52 |   x | x        |
 | 53 |   x | x        |
