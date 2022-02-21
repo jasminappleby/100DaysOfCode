@@ -75,6 +75,7 @@ body {
 
 .main-contents p {
     font-size: 1.1rem;
+    color: #ffffff;
     letter-spacing: 1.7px;
     line-height: 1.35;
     transition-delay: 150ms;
@@ -82,7 +83,7 @@ body {
 }
 
 .main-nav-list::before, .main-nav-list::after {
-    background-color: linear-gradient(to right,#fffcdc,#d9a7c7);
+    background-color:#b94071;    
     content:"";
     position: absolute;
     top: 0;
@@ -161,12 +162,12 @@ body {
 }
 
 .wrapper.active p {
-    color: #326586;
+    color: #e06db2;
     transition-delay: 150ms;
     transition-duration: 350ms;
 }
 
 .main-footer.active span {
-    color: #326586;
+    color: #e06db2;
     transition-duration: 350ms;
 }
