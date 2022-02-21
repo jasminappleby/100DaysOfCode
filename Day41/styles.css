@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: #e06db2;
+    background-color: #2a75bb;
 }
 
 .wrapper {
@@ -83,7 +83,7 @@ body {
 }
 
 .main-nav-list::before, .main-nav-list::after {
-    background-color:#b94071;    
+    background-color:#f7d528;    
     content:"";
     position: absolute;
     top: 0;
@@ -162,12 +162,12 @@ body {
 }
 
 .wrapper.active p {
-    color: #e06db2;
+    color:#2a75bb;
     transition-delay: 150ms;
     transition-duration: 350ms;
 }
 
 .main-footer.active span {
-    color: #e06db2;
+    color: #2a75bb;
     transition-duration: 350ms;
 }
