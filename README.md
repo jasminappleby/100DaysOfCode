@@ -54,9 +54,9 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 38 |[Pixels](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](https://dna-pixels.netlify.app)|
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](https://catchpa-generator.netlify.app)|
 | 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Unfinished](#)|
-| 41 |   x | x        |
-| 42 |   x | x        |
-| 43 |   x | x        |
+| 41 |[Pokémon Hamburger UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day41)|[Website](https://pokemon-hamburg.netlify.app)|
+| 42 |[Maze Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day42)|[Website](#)|
+| 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Website](#)|
 | 44 |   x | x        |
 | 45 |   x | x        |
 | 46 |   x | x        |
