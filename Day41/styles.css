@@ -13,6 +13,10 @@ body {
     background-color: #2a75bb;
 }
 
+img {
+    width: 200px;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
