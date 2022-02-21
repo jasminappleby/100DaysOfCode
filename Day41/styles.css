@@ -165,7 +165,7 @@ img {
     opacity: 1;
 }
 
-.wrapper.active p {
+.wrapper.active p, h2{
     color:#2a75bb;
     transition-delay: 150ms;
     transition-duration: 350ms;
