@@ -55,7 +55,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](https://catchpa-generator.netlify.app)|
 | 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Unfinished](#)|
 | 41 |[Pokémon Hamburger UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day41)|[Website](https://pokemon-hamburg.netlify.app)|
-| 42 |[Maze Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day42)|[Website](#)|
+| 42 |[Maze Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day42)|[Website](https://maize-game.netlify.app)|
 | 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Website](#)|
 | 44 |   x | x        |
 | 45 |   x | x        |
