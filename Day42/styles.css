@@ -124,21 +124,10 @@ input:focus, select:focus {
     width: 100vw;
     height: 100vh;
     color: #fff;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background: #ee7752;
     background-size: 400% 400%;
-    animation: Gradient 15s ease infinite;
 }
-@keyframes Gradient {
-    0% {
-        background-position: 0% 50%;
-   }
-    50% {
-        background-position: 100% 50%;
-   }
-    100% {
-        background-position: 0% 50%;
-   }
-}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 400px) {
     input, select {
