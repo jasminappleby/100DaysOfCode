@@ -9,6 +9,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 - I did not complete day 30 due to illness, so I added an image of what I managed to do within an hour
 - I was unwell from Feb 2nd (Day 22) to Feb 12th (Day 32), so some of the projects in between those days may be sloppier than others. It wasn't covid, but it might as well have been because it took over my life
 - Day 40 could not be completed due to travelling across the country (no choice of my own, so stressful experience)
+- Day 43's gif is a bit laggier than what the website is! i just felt like hosting it was a bit wasteful.
 
 ## Contents
 
@@ -56,7 +57,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Unfinished](#)|
 | 41 |[Pokémon Hamburger UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day41)|[Website](https://pokemon-hamburg.netlify.app)|
 | 42 |[Maze Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day42)|[Website](https://maize-game.netlify.app)|
-| 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Website](#)|
+| 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Website](imgs&gifs/day43.gif)|
 | 44 |   x | x        |
 | 45 |   x | x        |
 | 46 |   x | x        |
