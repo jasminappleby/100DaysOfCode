@@ -1,10 +1,70 @@
-html,body {
-    height: 100%;
-    width: 100%;
-    background-color: black;
+.rainbow {
+    width: 300px;
+    height: 150px;
+    margin: 0px;
+    position: relative;
+    overflow: hidden;
 }
 
-#MySVG {
+.rainbow.bands::before {
+    content: '';
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    filter: hue-rotate(-15deg) contrast(95%);
+    opacity: 1;
+    border-radius: 50%;
+    background: radial-gradient(circle at center, transparent, transparent 90px, #9400d3 90px, #9400d3 90px, #9400d3 98.5714285714px, #4b0082 98.5714285714px, #4b0082 107.1428571429px, #00f 107.1428571429px, #00f 115.7142857143px, #0f0 115.7142857143px, #0f0 124.2857142857px, #ff0 124.2857142857px, #ff0 132.8571428571px, #ff7f00 132.8571428571px, #ff7f00 141.4285714286px, #f00 141.4285714286px, #f00 150px);
+}
+
+.rainbow.smooth::before {
+    content: '';
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    filter: hue-rotate(-15deg) contrast(95%);
+    opacity: 1;
+    border-radius: 50%;
+    background: radial-gradient(circle at center, transparent, transparent 90px, #9400d3 90px, #9400d3 90px, #4b0082 99.7959183673px, #00f 109.5918367347px, #0f0 119.387755102px, #ff0 129.1836734694px, #ff7f00 138.9795918367px, #f00 148.7755102041px);
+}
+
+.rainbow::after {
+    content: '';
+    position: absolute;
+    transform-origin: 150px 150px;
+    width: 300px;
+    height: 150px;
+    background-color: #3c77d0;
+    animation: wipe 6s ease-in-out infinite;
+}
+
+@keyframes wipe {
+    0% {
+        transform: rotate(0deg);
+   }
+    20% {
+        transform: rotate(180deg);
+   }
+    70% {
+        transform: rotate(180deg);
+   }
+    90% {
+        transform: rotate(360deg);
+   }
+    100% {
+        transform: rotate(360deg);
+   }
+}
+
+html, body {
+    margin: 0px;
     height: 100%;
-    width: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #3c77d0;
 }
