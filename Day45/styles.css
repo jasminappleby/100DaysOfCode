@@ -35,7 +35,7 @@ body {
 .hand {
     width: 50%;
     height: 6px;
-    background: black;
+    background: rgb(183, 183, 183);
     position: absolute;
     top: 50%;
     transform-origin: 100%;
