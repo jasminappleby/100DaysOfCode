@@ -63,16 +63,16 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 46 |[Tinder-esc UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](#)|
 | 47 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day47)|[Website](#)|
 | 48 |[Space Invadors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](#)|
-| 49 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](#)|
+| 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](#)|
 | 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](#)|
-| 51 |   x | x        |
-| 52 |   x | x        |
-| 53 |   x | x        |
-| 54 |   x | x        |
-| 55 |   x | x        |
-| 56 |   x | x        |
-| 57 |   x | x        |
-| 58 |   x | x        |
+| 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](#)|
+| 52 |[Feedback Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day52)|[Website](#)|
+| 53 |[Form Validation](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day53)|[Website](#)|
+| 54 |[Colour Match Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day54)|[Website](#)|
+| 55 |[Waves](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day55)|[Website](#)|
+| 56 |[Guess the RGB](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day56)|[Website](#)|
+| 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Website](#)|
+| 58 |[Payment UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day58)|[Website](#)|
 | 59 |   x | x        |
 | 60 |   x | x        |
 | 61 |   x | x        |
