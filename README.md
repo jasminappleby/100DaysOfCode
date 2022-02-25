@@ -73,10 +73,10 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 56 |[Guess the RGB](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day56)|[Website](#)|
 | 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Website](#)|
 | 58 |[Payment UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day58)|[Website](#)|
-| 59 |   x | x        |
-| 60 |   x | x        |
-| 61 |   x | x        |
-| 62 |   x | x        |
+| 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](#)|
+| 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](#)|
+| 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](#)|
+| 62 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Website](#)|
 | 63 |   x | x        |
 | 64 |   x | x        |
 | 65 |   x | x        |
