@@ -10,6 +10,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 - I was unwell from Feb 2nd (Day 22) to Feb 12th (Day 32), so some of the projects in between those days may be sloppier than others. It wasn't covid, but it might as well have been because it took over my life
 - Day 40 could not be completed due to travelling across the country (no choice of my own, so stressful experience)
 - Day 43's gif is a bit laggier than what the website is! i just felt like hosting it was a bit wasteful.
+- Day 46 overran to Day 47, as it is no where near complete and I want to really finish this UI
 
 ## Contents
 
@@ -60,8 +61,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Gif](imgs&gifs/day43.gif)|
 | 44 |[Stackable Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day44)|[Gif](imgs&gifs/day44.gif)|
 | 45 |[Minimalist Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day45)|[Website](https://minimalist-clock-interface.netlify.app)|
-| 46 |[Tinder-esc UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](#)|
-| 47 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day47)|[Website](#)|
+| 46 |[Tin-der](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](#)|
+| 47 |[Tin-der (Continued)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](#)|
 | 48 |[Space Invadors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](#)|
 | 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](#)|
 | 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](#)|
@@ -77,7 +78,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](#)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](#)|
 | 62 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Website](#)|
-| 63 |   x | x        |
+| 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
 | 64 |   x | x        |
 | 65 |   x | x        |
 | 66 |   x | x        |
