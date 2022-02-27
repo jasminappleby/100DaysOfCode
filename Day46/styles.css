@@ -79,3 +79,25 @@ p {
     position: absolute;
     right: 30%;
 }
+
+#features {
+    position: relative;
+}
+
+.features-icon {
+    color: #ef8172;
+    padding-bottom: 10%;
+}
+
+.features-icon:hover {
+    color: #ff4c68;
+}
+
+.features-section {
+    padding: 5%;
+}
+
+.features-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
