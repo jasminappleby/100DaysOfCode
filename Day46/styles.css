@@ -26,3 +26,16 @@ p {
     line-height: 1.5;
     padding-bottom: 25px;
 }
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.color-section {
+    color: #fff;
+    background-color: #ff4c68; 
+}
+
+.white-section {
+    background-color: #fff;
+}
