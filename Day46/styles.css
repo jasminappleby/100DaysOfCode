@@ -63,3 +63,19 @@ p {
     padding: 3% 15% 7%;
     text-align: left;
 }
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.img-container {
+    padding: 20px;
+}
+
+.title-img {
+    width: 60%;
+    transform: rotate(15deg);
+    margin-left: 4rem;
+    position: absolute;
+    right: 30%;
+}
