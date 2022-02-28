@@ -63,7 +63,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 45 |[Minimalist Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day45)|[Website](https://minimalist-clock-interface.netlify.app)|
 | 46 |[Tin-der](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](https://tin-der.netlify.app)|
 | 47 |[Tin-der (Continued)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](https://tin-der.netlify.app)|
-| 48 |[Space Invadors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](#)|
+| 48 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](#)|
 | 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](#)|
 | 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](#)|
 | 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](#)|
@@ -77,8 +77,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](#)|
 | 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](#)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](#)|
-| 62 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Website](#)|
-| 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
+| 62 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
+| 63 |   x | x        |
 | 64 |   x | x        |
 | 65 |   x | x        |
 | 66 |   x | x        |
