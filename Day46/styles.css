@@ -101,3 +101,37 @@ p {
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+#testimonials {
+    background-color: #ef8172;
+}
+
+.testimonials-img {
+    width: 20%;
+    margin: 20px;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.footer-icon {
+    color: black;
+    padding: 10px 10px 50px;
+}
+
+#footer .container-fluid {
+    padding: 2% 15% 2%;
+}
