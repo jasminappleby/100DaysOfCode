@@ -1,4 +1,4 @@
-const currentYear = 2019;
+const currentYear = 2022;
 const weekDays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 const months = [
 	'January',
