@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,700&display=swap');
+
+body {
+    cursor: pointer;
+    user-select: none;
+    overflow: hidden;
+    background: #5a81dc;
+}
+
+.copy {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    pointer-events: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+}
+
+.copy h1 {
+    margin: 0;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 7vmin;
+}
+
+.copy p {
+    margin: 0;
+}
