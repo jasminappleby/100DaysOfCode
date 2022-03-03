@@ -65,7 +65,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 47 |[Tin-der (Continued)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](https://tin-der.netlify.app)|
 | 48 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](https://tearaway-calendar.netlify.app)|
 | 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](https://track-my-mood.netlify.app)|
-| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](#)|
+| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](imgs&gifs/day50.gif)|
 | 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](#)|
 | 52 |[Feedback Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day52)|[Website](#)|
 | 53 |[Form Validation](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day53)|[Website](#)|
