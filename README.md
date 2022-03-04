@@ -11,6 +11,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 - Day 40 could not be completed due to travelling across the country (no choice of my own, so stressful experience)
 - Day 43's gif is a bit laggier than what the website is! i just felt like hosting it was a bit wasteful.
 - Day 46 overran to Day 47, as it is no where near complete and I want to really finish this UI
+- Day 50 was meant to be spectaluar, but turned out rubbish so added only a gif of it
 
 ## Contents
 
@@ -66,7 +67,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 48 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](https://tearaway-calendar.netlify.app)|
 | 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](https://track-my-mood.netlify.app)|
 | 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](imgs&gifs/day50.gif)|
-| 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](#)|
+| 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](https://hungry-williams-719780.netlify.app)|
 | 52 |[Feedback Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day52)|[Website](#)|
 | 53 |[Form Validation](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day53)|[Website](#)|
 | 54 |[Colour Match Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day54)|[Website](#)|
