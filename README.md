@@ -68,7 +68,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](https://track-my-mood.netlify.app)|
 | 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Website](imgs&gifs/day50.gif)|
 | 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](https://hungry-williams-719780.netlify.app)|
-| 52 |[Feedback Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day52)|[Website](https://app.netlify.com/sites/stupefied-gates-9b5aec/settings/general)|
+| 52 |[Feedback Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day52)|[Website](https://stupefied-gates-9b5aec.netlify.app)|
 | 53 |[Form Validation](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day53)|[Website](#)|
 | 54 |[Colour Match Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day54)|[Website](#)|
 | 55 |[Waves](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day55)|[Website](#)|
