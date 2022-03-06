@@ -4,8 +4,13 @@
 	box-sizing: border-box;
 }
 
+:root {
+	--colour-1: #ED73C8;
+	--colour-2: #ffb7cc;
+}
+
 body {
-	background-color: #5758BB;
+	background: linear-gradient(to right, var(--colour-1), var(--colour-2));
 	color: #fff;
 	font-family: 'Muli', sans-serif;
 	display: flex;
