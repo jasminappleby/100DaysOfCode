@@ -12,6 +12,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 - Day 43's gif is a bit laggier than what the website is! i just felt like hosting it was a bit wasteful.
 - Day 46 overran to Day 47, as it is no where near complete and I want to really finish this UI
 - Day 50 was meant to be spectaluar, but turned out rubbish so added only a gif of it
+- I did not code on the 08/03, at all. For the first time this whole challenge I have been consistent in not wanting any green square left blank. The 8th is the first time I felt like I really needed to just take a days break and reset. 
 
 ## Contents
 
