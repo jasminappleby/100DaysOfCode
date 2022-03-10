@@ -6,9 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <script src="scripts.js" defer></script>
-    <title>Document</title>
+    <title>Image Scroller</title>
 </head>
 <body>
-    
+    <div id="main">
+        <h1>Image Scroller</h1>
+        <div class="content">
+            <p>You can press the <kbd>▲</kbd> or <kbd>▼</kbd> arrows on your keyboard or swipe up/down to navigate. The mouse wheel will also scroll through the images!</p>
+        </div>
+        <div class="buttons">
+            <button class="next" onclick="go(-1)"></button>
+            <button class="prev" onclick="go(1)"></button>
+        </div>
+    </div>
 </body>
 </html>
