@@ -20,6 +20,8 @@ body {
 	padding: 50px 15px;
 }
 
+/* FORM */
+
 .card-form {
     max-width: 570px;
 	margin: auto;
@@ -81,6 +83,8 @@ body {
     margin-top: 20px;
     cursor: pointer;
 }
+
+/* CARD */
 
 .card-item {
     max-width: 430px;
@@ -184,63 +188,63 @@ body {
 
 .card-item__typeImg {
 	max-width: 100%;
-	 object-fit: contain;
-	 max-height: 100%;
-	 object-position: top right;
+	object-fit: contain;
+	max-height: 100%;
+	object-position: top right;
 }
 
- .card-item__info {
-	 color: #fff;
-	 width: 100%;
-	 padding: 10px 15px;
-	 font-weight: 500;
-	 display: block;
-	 cursor: pointer;
+.card-item__info {
+	color: #fff;
+	width: 100%;
+	padding: 10px 15px;
+	font-weight: 500;
+	display: block;
+	cursor: pointer;
 }
 
- .card-item__holder {
-	 opacity: 0.7;
-	 font-size: 13px;
-	 margin-bottom: 6px;
+.card-item__holder {
+	opacity: 0.7;
+	font-size: 13px;
+	margin-bottom: 6px;
 }
 
- .card-item__wrapper {
-	 font-family: "Source Code Pro", monospace;
-	 padding: 25px 15px;
-	 position: relative;
-	 z-index: 4;
-	 height: 100%;
-	 text-shadow: 7px 6px 10px #0e2a5acc;
-	 user-select: none;
+.card-item__wrapper {
+	font-family: "Source Code Pro", monospace;
+	padding: 25px 15px;
+	position: relative;
+	z-index: 4;
+	height: 100%;
+	text-shadow: 7px 6px 10px #0e2a5acc;
+	user-select: none;
 }
 
- .card-item__name {
-	 font-size: 18px;
-	 line-height: 1;
-	 white-space: nowrap;
-	 max-width: 100%;
-	 overflow: hidden;
-	 text-overflow: ellipsis;
-	 text-transform: uppercase;
+.card-item__name {
+	font-size: 18px;
+	line-height: 1;
+	white-space: nowrap;
+	max-width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: uppercase;
 }
 
- .card-item__nameItem {
-	 display: inline-block;
-	 min-width: 8px;
-	 position: relative;
+.card-item__nameItem {
+	display: inline-block;
+	min-width: 8px;
+	position: relative;
 }
- .card-item__number {
-	 font-weight: 500;
-	 line-height: 1;
-	 color: #fff;
-	 font-size: 27px;
-	 margin-bottom: 35px;
-	 display: inline-block;
-	 padding: 10px 15px;
-	 cursor: pointer;
+.card-item__number {
+	font-weight: 500;
+	line-height: 1;
+	color: #fff;
+	font-size: 27px;
+	margin-bottom: 35px;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
 }
 
- .card-item__numberItem {
+.card-item__numberItem {
 	 width: 16px;
 	 display: inline-block;
 }

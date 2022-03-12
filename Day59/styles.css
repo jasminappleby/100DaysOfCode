@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/4317845.jpg");
+}
+
+.wrapper {
+    height: 97vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.typing-demo {
+    width: 36ch;
+    animation: typing 5s steps(36), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 20px;
+}
+  
+@keyframes typing {
+    from {
+        width: 0
+    }
+}
+      
+@keyframes blink {
+    50% {
+        border-color: transparent
+    }
+}
