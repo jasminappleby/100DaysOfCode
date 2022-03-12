@@ -73,10 +73,10 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 53 |[Form Validation](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day53)|[Website](https://account-validation-ui.netlify.app)|
 | 54 |[Colour Match Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day54)|[Website](https://circle-clicky-game.netlify.app)|
 | 55 |[Waves](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day55)|[Website](https://clicky-waves.netlify.app)|
-| 56 |[Guess the RGB](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day56)|[Website](https://relaxed-almeida-144fd1.netlify.app)|
-| 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Unfinished](#)|
-| 58 |[Payment UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day58)|[Website](https://cranky-noyce-69ce80.netlify.app)|
-| 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](#)|
+| 56 |[Guess the RGB](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day56)|[Website](https://app.netlify.com/sites/guess-the-rgb-game/settings/general)|
+| 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Unfinished](imgs&gifs/day57.png)|
+| 58 |[Payment UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day58)|[Website](https://payment-by-card.netlify.app)|
+| 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](https://notepad-is-typing.netlify.app)|
 | 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](#)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](#)|
 | 62 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
