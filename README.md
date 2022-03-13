@@ -77,7 +77,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Image](imgs&gifs/day57.png)|
 | 58 |[Payment UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day58)|[Website](https://payment-by-card.netlify.app)|
 | 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](https://notepad-is-typing.netlify.app)|
-| 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](#)|
+| 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](https://ticking-time-boomboom.netlify.app)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](#)|
 | 62 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
 | 63 |   x | x        |
