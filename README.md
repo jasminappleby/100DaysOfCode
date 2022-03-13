@@ -79,13 +79,13 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](https://notepad-is-typing.netlify.app)|
 | 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](https://ticking-time-boomboom.netlify.app)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](#)|
-| 62 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
-| 63 |   x | x        |
-| 64 |   x | x        |
-| 65 |   x | x        |
-| 66 |   x | x        |
-| 67 |   x | x        |
-| 68 |   x | x        |
+| 62 |[Virtual Invite Ticket UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Website](#)|
+| 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](#)|
+| 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](#)|
+| 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](#)|
+| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](#)|
+| 67 |[Swipe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](#)|
+| 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](#)|
 | 69 |   x | x        |
 | 70 |   x | x        |
 | 71 |   x | x        |
