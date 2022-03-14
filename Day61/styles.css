@@ -33,7 +33,7 @@ p {
     padding: 12px 0 12px 0;
 }
 
-.weatherforcastbox {
+.weatherforecastbox {
     position: relative;
     width: 17%;
     border: 3px ridge #2f2f2f;
