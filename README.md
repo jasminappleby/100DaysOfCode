@@ -86,9 +86,9 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](#)|
 | 67 |[Swipe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](#)|
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](#)|
-| 69 |   x | x        |
-| 70 |   x | x        |
-| 71 |   x | x        |
+| 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](#)|
+| 70 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](#)|
+| 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](#)|
 | 72 |   x | x        |
 | 73 |   x | x        |
 | 74 |   x | x        |
