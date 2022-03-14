@@ -43,3 +43,37 @@ p {
     margin: 0 50px 20px -360px;
 }
 
+.content {
+    font-size: 0;
+    line-height: 0;
+    word-spacing: -.31em;
+    display: inline-block;
+    margin: 30px 2% 0 2%;
+}
+
+.media {
+    width: 100%;
+    border: 3px double #2f2f2f;
+}
+
+.column {
+    font-size: 14px;
+    line-height: 20px;
+    width: 22.9%;
+    display: inline-block;
+    padding: 0 1% 0 1%;
+    vertical-align: top;
+    margin-bottom: 50px;
+}
+
+.column + .column { 
+  border-left: 1px solid #2f2f2f;
+}
+
+.column .headline{
+    text-align: center;
+    line-height: normal;
+    font-family: 'Playfair Display', serif;
+    display: block;
+    margin: 0 auto;
+}
