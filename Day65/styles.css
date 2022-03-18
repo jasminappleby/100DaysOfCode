@@ -1,0 +1,21 @@
+.animal-kingdom {
+    font-size: 80px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    font-size: 60px;
+}
+.animal-kingdom:before {
+    content: '🤴';
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    display: inline-block;
+    width: 100%;
+    height: 40%;
+    display: inline-block;
+    transform: translate(0, -25%);
+}
