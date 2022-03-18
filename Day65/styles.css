@@ -1,4 +1,27 @@
 
+
+/* General bits and bobs */
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+}
+
+h1:before {
+    content: attr(data-heading);
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    display: inline-block;
+}
+
+/* Cowboy Poop */
+
 .poop {
     margin: 0;
     position: relative;
@@ -23,6 +46,34 @@
     transform: translate(0, 24%) scale(1);
 }
 
+/* Spider Shocked Face */
+
+.spidey {
+    margin: 0;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    font-size: 60px;
+    margin: 0 20px 0 0;
+}
+
+.spidey:before {
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-block;
+    width: 100%;
+    display: inline-block;
+}
+
+.spidey-ohno:before {
+    content: "🕷";
+    transform: translate(20%, -20%) rotate(-20deg) scale(0.4);
+}
+
+/* King Dog */
+
 .animal-kingdom {
     font-size: 80px;
     margin: 0;
@@ -45,6 +96,14 @@
     display: inline-block;
     transform: translate(0, -25%);
 }
+
+/* Split Colour Butterfly */
+
+.butterfly:before {
+    filter: hue-rotate(60deg);
+}
+
+/* Cool Pig */
 
 .cool-animals {
     font-size: 80px;
