@@ -1,4 +1,27 @@
 
+.poop {
+    margin: 0;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    font-size: 60px;
+}
+
+.poop:before {
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-block;
+    width: 100%;
+    display: inline-block;
+}
+
+.cowboy-poop:before {
+    content: '🤠';
+    height: 28%;
+    transform: translate(0, 24%) scale(1);
+}
 
 .animal-kingdom {
     font-size: 80px;
