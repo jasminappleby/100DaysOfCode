@@ -46,7 +46,7 @@ button {
     outline: none;
 }
 
-/* Button 1 */
+/* Button One */
 
 .btn-1 {
     background: #00acee;
@@ -307,6 +307,43 @@ button {
     -webkit-transform: rotateX(-90deg);
     -moz-transform: rotateX(-90deg);
     transform: rotateX(-90deg);
+}
+  
+/* Button Five */
+
+.btn-5 {
+    background: #ff9700;
+    border: none;
+    border-radius: 5px;
+    z-index: 1;
+}
+  
+.btn-5:after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 5px;
+    background-color: #eaf818;
+    background-image: linear-gradient(315deg, #eaf818 0%, #f6fc9c 74%);
+    transition: all 0.3s ease;
+}
+  
+.btn-5:hover {
+    color: #000;
+}
+  
+.btn-5:hover:after {
+    top: auto;
+    bottom: 0;
+    height: 100%;
+}
+  
+.btn-5:active {
+    top: 2px;
 }
   
   
