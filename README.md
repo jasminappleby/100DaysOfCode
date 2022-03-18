@@ -81,7 +81,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](https://jazz-news.netlify.app)|
 | 62 |[Virtual Invite Ticket UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Website](imgs&gifs/day62.png)|
 | 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](https://card-invitation.netlify.app)|
-| 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](#)|
+| 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](https://just-some-buttons.netlify.app)|
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](#)|
 | 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](#)|
 | 67 |[Swipe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](#)|
