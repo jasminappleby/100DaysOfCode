@@ -33,6 +33,10 @@ h2 {
 	font-weight:300;
 }
 
+.fa-solid {
+    color: white;
+}
+
 .container {
 	margin:50px;
 	width: 1251px;
@@ -126,7 +130,7 @@ a.wide i, a.box i {
 }
 
 .gallery {
-	background: url();
+	background: url("https://images.unsplash.com/photo-1528818955841-a7f1425131b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3RhcnJ5JTIwc2t5fGVufDB8fDB8fA%3D%3D&w=1000&q=80");
 }
 
 .right {
