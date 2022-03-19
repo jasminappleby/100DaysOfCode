@@ -13,6 +13,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 - Day 46 overran to Day 47, as it is no where near complete and I want to really finish this UI
 - Day 50 was meant to be spectaluar, but turned out rubbish so added only a gif of it
 - I did not code on the 08/03, at all. For the first time this whole challenge I have been consistent in not wanting any green square left blank. The 8th is the first time I felt like I really needed to just take a days break and reset. 
+- Day 66 icons would not work and I want to revisit this issue later 
 
 ## Contents
 
@@ -83,7 +84,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](https://card-invitation.netlify.app)|
 | 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](https://just-some-buttons.netlify.app)|
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
-| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](#)|
+| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](imgs&gifs/day66.png)|
 | 67 |[Swipe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](#)|
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](#)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](#)|
