@@ -85,7 +85,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](https://just-some-buttons.netlify.app)|
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
 | 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](imgs&gifs/day66.png)|
-| 67 |[Swipe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](#)|
+| 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)|
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](#)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](#)|
 | 70 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](#)|
