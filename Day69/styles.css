@@ -12,8 +12,6 @@ body {
     font-family: "Work Sans", "Helvetica", sans-serif;
     font-size: 0.9em;
     line-height: 1.45;
-    align-items: center;
-    justify-content: center;
 }
 
 .calculator {
@@ -43,4 +41,40 @@ input, select {
     outline: none;
     color: white;
     background-color: #e79bfc;
+}
+
+.salary-initial {
+    position: relative;
+}
+
+input {
+    -webkit-appearance: none;
+    padding: 10px 10px 10px 45px;
+    width: 340px;
+    margin-left: 5px;
+}
+
+.input__label {
+    display: inline-block;
+    position: absolute;
+    top: -5px;
+    left: 0;
+    padding: 0 0 0 20px;
+    font-size: 70%;
+    user-select: none;
+    color: white;
+}
+
+select {
+    padding: 10px 40px 10px 10px;
+    display: block;
+    appearance: none;
+}
+
+select option {
+    font-weight: 200;
+}
+
+#salary-calculated {
+    border-bottom: solid 10px #ff0303;
 }
