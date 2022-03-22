@@ -31,6 +31,7 @@ body {
     position: relative;
     top: 30%;
     transform: translateY(-50%);
+    font: 300 30px 'Montserrat', sans-serif;
 }
 
 .wage-gap::first-line {
