@@ -9,6 +9,40 @@
     <title>Wage Gap (US)</title>
 </head>
 <body>
-    
+    <section class="calculator" id="body">
+        <form action="" class="wage-gap" id="wage-gap" onsubmit="return false;">
+        When a white man<br>is paid  
+            <span class="salary-initial">
+                <label class="input__label">	
+                    <span class="input__label-content">$</span>
+                </label><input type="number" min="0" step="100" id="salary-initial" name="salary-initial" onchange="calculateTotal()"/>
+            </span>,
+            <span class="input">
+                <select class="input" id="womanethnicity" name="womanethnicity" onchange="calculateTotal()">
+                    <option value="latina">
+                    a Hispanic/Latina woman
+                    </option>
+                    <option value="black">
+                    a Black woman
+                    </option>
+                    <option value="pacificislander">
+                    a Pacific Islander woman
+                    </option>
+                    <option value="ndn">
+                    a Native American woman
+                    </option>
+                    <option value="asian">
+                    an Asian American woman
+                    </option>
+                </select>
+                earns only
+                <span id="salary-calculated"></span>
+            </span>
+        </form>
+    </section>
+    <section>
+    <p><a href="http://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/">Source</a>. Based on median annual earnings of full-time, year-round workers, ages 16 and older, 2014 in the US.</p>
+    <h1>The overall wage gap between men and women is <em title="The same gap between white women and white men.">22%</em>, but women of colour unfortunately experience a much greater wage deficit.</h1>
+    </section>
 </body>
 </html>
