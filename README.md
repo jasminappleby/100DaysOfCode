@@ -88,9 +88,9 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)|
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](https://flow-tracker.netlify.app)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](https://woc-paygap.netlify.app)|
-| 70 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](#)|
+| 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](#)|
-| 72 |   x | x        |
+| 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](#)|
 | 73 |   x | x        |
 | 74 |   x | x        |
 | 75 |   x | x        |
