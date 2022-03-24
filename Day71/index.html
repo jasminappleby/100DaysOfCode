@@ -5,10 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" type="image/jpg" href="favicon.png"/>
     <script src="scripts.js" defer></script>
-    <title>Document</title>
+    <title>Starsign Biography</title>
 </head>
 <body>
-    
+    <div class="main-container">
+        <form>
+        <div class="formS">
+            <h1>Starsign Biography!</h1>
+            <p>Type your astrological starsign below to find out more about it!</p>
+        </div>
+        <div class="formS">
+            <input id="your-sign" class="form-input" placeholder="ex: Taurus"></input>
+        </div>
+        <div class="formS">
+            <button type="button" onclick="astSign()">Click me</button>
+        </div>
+        </form>
+
+        <div>
+            <h1 id="yourSign"></h1>
+            <h2 id="birthdayRange"></h2>
+            <h2 id="attributes"></h2>
+            <img id="zodiacImage">
+        </div>
+    </div>
 </body>
 </html>
