@@ -49,16 +49,17 @@ const zodiac = [
 		birthdayRange: "December 22 - January 19",
 		attributes: "The sign of the high roller, Capricorn is regarded as the zodiac top, but also quiet, life and business achievers. Capricons are cheap to be friends with, because you can get them a birthday + Christmas present wrapped into one! They hate it! Their starsign also gets hit by unfortunate New Years resolutions AND Blue Monday. They literally just get absolutely shafted by the world. I know nothing about Capricons because their birthdays are so unforgettable.",
 	},
+    //finish tomorrow
+    {
+        zodiacName: "aquarius",
+        birthdayRange: "January 20 - February 18",
+        attributes: "Although they can easily adapt to the energy that surrounds them, Aquarius representatives have a deep need to have some time alone and away from everything in order to restore power. If you tell an Aquarius to do something, no matter how outlandish it may be, they are going to do it. ",
+    },
 	{
 		zodiacName: "pisces",
 		birthdayRange: "February 19 - March 20",
 		attributes: "Mysterious and alluring individuals, most Pisces are extremely talented, but even though they are gifted in many ways, they still manage to spend most of their lives battling confusing conditions. Pisces is the sign symbolised by the image of two fish. Their symbol depicts one fish heading upward, the other pulling downward. This mirrors how Pisceans are frequently torn between two pathways in life, or actually do live two very different existences at the same time.",
-	},
-	{
-		zodiacName: "aquarius",
-		birthdayRange: "January 20 - February 18",
-		attributes: "Special note for Aquarians: At the Dawn of the Age of Aquarius, at this time, ready or not, your sign is regarded as the zodiac's leader. You are the trendsetter for the future and because of this high responsibility, many under born your sign will be undergoing at this time, the pressure of personal change (particularly in your values and what makes you content and happy). Yours has always been a philanthropic sign. Now more than ever these qualities will be highlighted.",
-	},
+	}
 	
 ]
 
