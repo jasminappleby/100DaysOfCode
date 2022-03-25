@@ -3,14 +3,14 @@
 /* Desktop styling */
 
 header {
-    background-color: #65aebbde;
+    background-color: #99e8f698;
     font-weight: bolder;
     padding: 30px;
     text-align: center;
 }
 
 .bordered-section {
-    background-color: #a7bdc1a3;
+    background-color: rgba(167, 189, 193, 0.463);
     border-radius: 15px;
     width: 500px;
     text-align: center;
@@ -25,3 +25,16 @@ header {
     justify-content: center;
 }
 
+
+body {
+    background-image: url("https://media.istockphoto.com/photos/blue-valentines-day-background-with-hearts-bokeh-love-concept-picture-id1199264234?k=20&m=1199264234&s=170667a&w=0&h=wL-Bv72uesjPWZLgaT5lKGIi5NRHLtuLTrmtqKSHyxQ=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/baby-blue-hearts-background-23420722.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
