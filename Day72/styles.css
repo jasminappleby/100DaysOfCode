@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;600&display=swap');
 
+/* General styling */
+
+* {
+    box-sizing: border-box;
+}
+
+main {
+    padding: 20px
+}
+
+h1, h2, h3, h4, p {
+    font-family: 'Raleway', sans-serif;
+}
+
+
 /* Desktop styling */
 
 header {
@@ -25,7 +40,6 @@ header {
     justify-content: center;
 }
 
-
 body {
     background-image: url("https://media.istockphoto.com/photos/blue-valentines-day-background-with-hearts-bokeh-love-concept-picture-id1199264234?k=20&m=1199264234&s=170667a&w=0&h=wL-Bv72uesjPWZLgaT5lKGIi5NRHLtuLTrmtqKSHyxQ=");
     background-repeat: no-repeat;
@@ -33,8 +47,25 @@ body {
 }
 
 
-body {
-    background-image: url("https://thumbs.dreamstime.com/b/baby-blue-hearts-background-23420722.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+/* styles specifically for screens less than 768px (most mobiles) */  
+
+@media only screen and (max-width: 768px) {
+    
+    header {
+        background-color: #446342de;
+        font-weight: bolder;
+        padding: 25px;
+        text-align: center;
+    }
+    
+    body {
+        background-image: url("https://thumbs.dreamstime.com/b/baby-blue-hearts-background-23420722.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .bordered-section {
+        background-color: #a9c1a7de;
+        border-radius: 15px;
+    }
 }
