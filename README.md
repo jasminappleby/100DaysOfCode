@@ -80,17 +80,17 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](https://notepad-is-typing.netlify.app)|
 | 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](https://ticking-time-boomboom.netlify.app)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](https://jazz-news.netlify.app)|
-| 62 |[Virtual Invite Ticket UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Website](imgs&gifs/day62.png)|
+| 62 |[Virtual Invite Ticket UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Image](imgs&gifs/day62.png)|
 | 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](https://card-invitation.netlify.app)|
 | 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](https://just-some-buttons.netlify.app)|
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
-| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Website](imgs&gifs/day66.png)|
+| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Image](imgs&gifs/day66.png)|
 | 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)|
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](https://flow-tracker.netlify.app)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](https://woc-paygap.netlify.app)|
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](https://unserious-starsigns.netlify.app)|
-| 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](#)|
+| 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
 | 73 |   x | x        |
 | 74 |   x | x        |
 | 75 |   x | x        |
