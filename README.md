@@ -92,33 +92,33 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](https://unserious-starsigns.netlify.app)|
 | 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
-| 73 |   x | x        |
-| 74 |   x | x        |
-| 75 |   x | x        |
-| 76 |   x | x        |
-| 77 |   x | x        |
-| 78 |   x | x        |
-| 79 |   x | x        |
-| 80 |   x | x        |
-| 81 |   x | x        |
-| 82 |   x | x        |
-| 83 |   x | x        |
-| 84 |   x | x        |
-| 85 |   x | x        |
-| 86 |   x | x        |
-| 87 |   x | x        |
-| 88 |   x | x        |
-| 89 |   x | x        |
-| 90 |   x | x        |
-| 91 |   x | x        |
-| 92 |   x | x        |
-| 93 |   x | x        |
-| 94 |   x | x        |
-| 95 |   x | x        |
-| 96 |   x | x        |
-| 97 |   x | x        |
-| 98 |   x | x        |
-| 99 |   x | x        |
+| 73 |[](#)|[Website](#)|
+| 74 |[](#)|[Website](#)|
+| 75 |[](#)|[Website](#)|
+| 76 |[](#)|[Website](#)|
+| 77 |[](#)|[Website](#)|
+| 78 |[](#)|[Website](#)|
+| 79 |[](#)|[Website](#)|
+| 80 |[](#)|[Website](#)|
+| 81 |[](#)|[Website](#)|
+| 82 |[](#)|[Website](#)|
+| 83 |[](#)|[Website](#)|
+| 84 |[](#)|[Website](#)|
+| 85 |[](#)|[Website](#)|
+| 86 |[](#)|[Website](#)|
+| 87 |[](#)|[Website](#)|
+| 88 |[](#)|[Website](#)|
+| 89 |[](#)|[Website](#)|
+| 90 |[](#)|[Website](#)|
+| 91 |[](#)|[Website](#)|
+| 92 |[](#)|[Website](#)|
+| 93 |[](#)|[Website](#)|
+| 94 |[](#)|[Website](#)|
+| 95 |[](#)|[Website](#)|
+| 96 |[](#)|[Website](#)|
+| 97 |[](#)|[Website](#)|
+| 98 |[](#)|[Website](#)|
+| 99 |[](#)|[Website](#)|
 | 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day100)|[Website]()|
 
 
