@@ -93,10 +93,10 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](https://unserious-starsigns.netlify.app)|
 | 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
-| 73 |[](#)|[Website](#)|
-| 74 |[](#)|[Website](#)|
-| 75 |[](#)|[Website](#)|
-| 76 |[](#)|[Website](#)|
+| 73 |[CSS Bar Graph](#)|[Website](#)|
+| 74 |[CSS Glowing Icons](#)|[Website](#)|
+| 75 |[CSS Glowing Snow](#)|[Website](#)|
+| 76 |[Page Turner](#)|[Website](#)|
 | 77 |[](#)|[Website](#)|
 | 78 |[](#)|[Website](#)|
 | 79 |[](#)|[Website](#)|
