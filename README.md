@@ -93,33 +93,33 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](https://unserious-starsigns.netlify.app)|
 | 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
-| 73 |[CSS Bar Graph](#)|[Website](#)|
-| 74 |[CSS Glowing Icons](#)|[Website](#)|
-| 75 |[CSS Glowing Snow](#)|[Website](#)|
-| 76 |[Page Turner](#)|[Website](#)|
-| 77 |[](#)|[Website](#)|
-| 78 |[](#)|[Website](#)|
-| 79 |[](#)|[Website](#)|
-| 80 |[](#)|[Website](#)|
-| 81 |[](#)|[Website](#)|
-| 82 |[](#)|[Website](#)|
-| 83 |[](#)|[Website](#)|
-| 84 |[](#)|[Website](#)|
-| 85 |[](#)|[Website](#)|
-| 86 |[](#)|[Website](#)|
-| 87 |[](#)|[Website](#)|
-| 88 |[](#)|[Website](#)|
-| 89 |[](#)|[Website](#)|
-| 90 |[](#)|[Website](#)|
-| 91 |[](#)|[Website](#)|
-| 92 |[](#)|[Website](#)|
-| 93 |[](#)|[Website](#)|
-| 94 |[](#)|[Website](#)|
-| 95 |[](#)|[Website](#)|
-| 96 |[](#)|[Website](#)|
-| 97 |[](#)|[Website](#)|
-| 98 |[](#)|[Website](#)|
-| 99 |[](#)|[Website](#)|
+| 73 |[CSS Bar Graph](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day73)|[Website](#)|
+| 74 |[CSS Glowing Icons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day74)|[Website](#)|
+| 75 |[CSS Glowing Snow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day75)|[Website](#)|
+| 76 |[Page Turner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day76)|[Website](#)|
+| 77 |[Progress](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day77)|[Website](#)|
+| 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](#)|
+| 79 |[Music UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day79)|[Website](#)|
+| 80 |[Rock, Paper, Scissors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day80)|[Website](#)|
+| 81 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Website](#)|
+| 82 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day82)|[Website](#)|
+| 83 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](#)|
+| 84 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](#)|
+| 85 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](#)|
+| 86 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](#)|
+| 87 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](#)|
+| 88 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](#)|
+| 89 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](#)|
+| 90 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](#)|
+| 91 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](#)|
+| 92 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Website](#)|
+| 93 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](#)|
+| 94 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Website](#)|
+| 95 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Website](#)|
+| 96 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day96)|[Website](#)|
+| 97 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Website](#)|
+| 98 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](#)|
+| 99 |[](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day99)|[Website](#)|
 | 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day100)|[Website]()|
 
 
