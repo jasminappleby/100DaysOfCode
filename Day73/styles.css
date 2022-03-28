@@ -67,3 +67,25 @@ html, body {
     color: #333;
 }
   
+/* I am sure theres an easier way of doing this, but ehhhhh lets waste time */
+
+.percentage-1:after {
+	width: 1%;
+}
+
+.percentage-2:after {
+	width: 2%;
+}
+
+.percentage-3:after {
+	width: 3%;
+}
+
+.percentage-4:after {
+	width: 4%;
+}
+
+.percentage-5:after {
+	width: 5%;
+}
+
