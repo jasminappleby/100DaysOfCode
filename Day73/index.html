@@ -9,6 +9,21 @@
     <title>Stats Grid</title>
 </head>
 <body>
-    
+    <section>
+        <h2>Players per sports team</h2> 
+        <ul class="chart" id="chart">
+            <li 
+                v-for="(dataPoint, i) in dataPoints"
+                :key="dataPoint.name"
+                :style="`
+                    grid-row: ${getMaxDataPoint - dataPoint.value + 1} / span ${dataPoint.value};
+                    grid-column: ${i + 1}
+                `"
+            >
+                {{ dataPoint.name }}
+                <span>{{ dataPoint.value }}</span>
+            </li>
+        </ul> 
+    </section>
 </body>
 </html>
