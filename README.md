@@ -16,6 +16,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 - Day 66 icons would not work and I want to revisit this issue later 
 - Day 73, Taking a break today (26/03) because I feel horrible. Got sick again but nothing like how I was in Feb.
 - Day 73, again. I cannot do this physically. (27/03). I am struggling to stay awake. Not Covid but it might as well be.
+- Day 73, part three. (28/03) I have tested positive, so it is covid after all this time. It isn't pleasant but I have slightly more focus today than I have done the past two days. Super achy all over though and cant stop coughing all over my screen... gross.
 
 ## Contents
 
@@ -101,8 +102,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](#)|
 | 79 |[Music UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day79)|[Website](#)|
 | 80 |[Rock, Paper, Scissors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day80)|[Website](#)|
-| 81 |[Day 81](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Website](#)|
-| 82 |[Day 82](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day82)|[Website](#)|
+| 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Website](#)|
+| 82 |[Wordle](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day82)|[Website](#)|
 | 83 |[Day 83](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](#)|
 | 84 |[Day 84](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](#)|
 | 85 |[Day 85](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](#)|
