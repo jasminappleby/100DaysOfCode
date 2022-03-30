@@ -33,9 +33,9 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
  -->
 ## Contents
 
+<!-- Add footers to each available site so there is navigation back to the repo (day 1 - 67) -->
 |#| Code     | Link |
 | -----------| ----------- | ----------- |
-<!-- Add footers to each available site so there is navigation back to the repo -->
 | 01 |[Like Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day01)|[Website](https://piplup-like-button.netlify.app)|
 | 02 |[Hangman](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day02)|[Website](https://jasmins-hangman.netlify.app)|
 | 03 |[Expenses Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day03)|[Website](https://jasmins-expenses-tracker.netlify.app)|
@@ -103,7 +103,6 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
 | 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Image](imgs&gifs/day66.png)|
 | 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)| 
-<!-- To here -->
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](imgs&gifs/day68.png)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](https://woc-paygap.netlify.app)|
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
