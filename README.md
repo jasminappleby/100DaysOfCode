@@ -103,12 +103,12 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
 | 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Image](imgs&gifs/day66.png)|
 | 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)| 
-| 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](imgs&gifs/day68.png)|
+| 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Image](imgs&gifs/day68.png)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](https://woc-paygap.netlify.app)|
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](https://unserious-starsigns.netlify.app)|
 | 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
-| 73 |[CSS Bar Graph](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day73)|[Website](imgs&gifs/day73.png)|
+| 73 |[CSS Bar Graph](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day73)|[Image](imgs&gifs/day73.png)|
 | 74 |[CSS Glowing Icons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day74)|[Website](https://glowing-icons.netlify.app)|
 | 75 |[CSS Paper Snowflakes](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day75)|[Website](https://paper-snowflakes.netlify.app)|
 | 76 |[Page Turner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day76)|[Website](#)|
