@@ -2,26 +2,40 @@
 Going to attempt to do 100 Days Of Code, starting on the 12th Jan 2022
 
 Feel free to tweak or play around with any of my code, or have a look at any of the sites I have created! :) 
+<!--  
 
 ## Edit notes
 
 - Flash Cards - Flipping the card over does not work on Safari, unknown as to why. 
+
 - I did not complete day 30 due to illness, so I added an image of what I managed to do within an hour
+
 - I was unwell from Feb 2nd (Day 22) to Feb 12th (Day 32), so some of the projects in between those days may be sloppier than others. It wasn't covid, but it might as well have been because it took over my life
+
 - Day 40 could not be completed due to travelling across the country (no choice of my own, so stressful experience)
+
 - Day 43's gif is a bit laggier than what the website is! i just felt like hosting it was a bit wasteful.
+
 - Day 46 overran to Day 47, as it is no where near complete and I want to really finish this UI
+
 - Day 50 was meant to be spectaluar, but turned out rubbish so added only a gif of it
+
 - I did not code on the 08/03, at all. For the first time this whole challenge I have been consistent in not wanting any green square left blank. The 8th is the first time I felt like I really needed to just take a days break and reset. 
+
 - Day 66 icons would not work and I want to revisit this issue later 
+
 - Day 73, Taking a break today (26/03) because I feel horrible. Got sick again but nothing like how I was in Feb.
+
 - Day 73, again. I cannot do this physically. (27/03). I am struggling to stay awake. Not Covid but it might as well be.
+
 - Day 73, part three. (28/03) I have tested positive, so it is covid after all this time. It isn't pleasant but I have slightly more focus today than I have done the past two days. Super achy all over though and cant stop coughing all over my screen... gross.
 
+ -->
 ## Contents
 
 |#| Code     | Link |
 | -----------| ----------- | ----------- |
+<!-- Add footers to each available site so there is navigation back to the repo -->
 | 01 |[Like Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day01)|[Website](https://piplup-like-button.netlify.app)|
 | 02 |[Hangman](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day02)|[Website](https://jasmins-hangman.netlify.app)|
 | 03 |[Expenses Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day03)|[Website](https://jasmins-expenses-tracker.netlify.app)|
@@ -88,7 +102,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](https://just-some-buttons.netlify.app)|
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
 | 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Image](imgs&gifs/day66.png)|
-| 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)|
+| 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)| 
+<!-- To here -->
 | 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Website](imgs&gifs/day68.png)|
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](https://woc-paygap.netlify.app)|
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
