@@ -96,7 +96,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
 | 73 |[CSS Bar Graph](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day73)|[Website](imgs&gifs/day73.png)|
 | 74 |[CSS Glowing Icons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day74)|[Website](https://glowing-icons.netlify.app)|
-| 75 |[CSS Paper Snowflakes](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day75)|[Website](#)|
+| 75 |[CSS Paper Snowflakes](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day75)|[Website](https://paper-snowflakes.netlify.app)|
 | 76 |[Page Turner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day76)|[Website](#)|
 | 77 |[Progress](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day77)|[Website](#)|
 | 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](#)|
