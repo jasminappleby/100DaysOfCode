@@ -33,6 +33,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
  -->
 ## Contents
 
+<!--  -->
+
 <!-- Add footers to each available site so there is navigation back to the repo (day 1 - 67) -->
 |#| Code     | Link |
 | -----------| ----------- | ----------- |
@@ -65,8 +67,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 27 |[Reveal On Scroll](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day27)|[Website](https://arceus-and-scroll.netlify.app)|
 | 28 |[Pattern Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day28)|[Website](https://random-rgb-pattern.netlify.app)|
 | 29 |[Pokémon Finder](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day29)|[Website](https://jasmins-poke-finder.netlify.app)|
-| 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|[Image](imgs&gifs/day30.png)|
-| 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Gif](imgs&gifs/day31.gif)|
+| 30 |[Pokémon Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day30)|[Image](imgs&gifs/day30.png) <!-- Image --> |
+| 31 |[Pokéball](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day31)|[Gif](imgs&gifs/day31.gif) <!-- Image --> |
 | 32 |[Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day32)|[Website](https://dark-to-light-calc.netlify.app)|
 | 33 |[Stop Watch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Website](https://jasmins-stop-watch.netlify.app)|
 | 34 |[Flappy Bird](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day34)|[Website](https://bootleg-flappy-bird.netlify.app)|
@@ -75,40 +77,40 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 37 |[Drag & Drop](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day37)|[Website](https://drag-n-death-drop.netlify.app)|
 | 38 |[Pixels](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day38)|[Website](https://dna-pixels.netlify.app)|
 | 39 |[Captcha Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day39)|[Website](https://catchpa-generator.netlify.app)|
-| 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Unfinished](#)|
+| 40 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day40)|[Unfinished](#) <!-- Unfinished --> |
 | 41 |[Pokémon Hamburger UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day41)|[Website](https://pokemon-hamburg.netlify.app)|
 | 42 |[Maze Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day42)|[Website](https://maize-game.netlify.app)|
-| 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Gif](imgs&gifs/day43.gif)|
-| 44 |[Stackable Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day44)|[Gif](imgs&gifs/day44.gif)|
+| 43 |[Infinite Rainbow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day43)|[Gif](imgs&gifs/day43.gif) <!-- Gif --> |
+| 44 |[Stackable Cards](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day44)|[Gif](imgs&gifs/day44.gif) <!-- Gif --> |
 | 45 |[Minimalist Clock](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day45)|[Website](https://minimalist-clock-interface.netlify.app)|
 | 46 |[Tin-der](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](https://tin-der.netlify.app)|
 | 47 |[Tin-der (Continued)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day46)|[Website](https://tin-der.netlify.app)|
 | 48 |[Paper Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day48)|[Website](https://tearaway-calendar.netlify.app)|
 | 49 |[Mood Tracker](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day49)|[Website](https://track-my-mood.netlify.app)|
-| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[gif](imgs&gifs/day50.gif)|
+| 50 |[Confetti Cannon](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day50)|[Gif](imgs&gifs/day50.gif) <!-- Gif --> |
 | 51 |[Contact Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day51)|[Website](https://hungry-williams-719780.netlify.app)|
 | 52 |[Feedback Page](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day52)|[Website](https://stupefied-gates-9b5aec.netlify.app)|
 | 53 |[Form Validation](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day53)|[Website](https://account-validation-ui.netlify.app)|
 | 54 |[Colour Match Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day54)|[Website](https://circle-clicky-game.netlify.app)|
 | 55 |[Waves](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day55)|[Website](https://clicky-waves.netlify.app)|
 | 56 |[Guess the RGB](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day56)|[Website](https://app.netlify.com/sites/guess-the-rgb-game/settings/general)|
-| 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Image](imgs&gifs/day57.png)|
+| 57 |[Slider](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day57)|[Image](imgs&gifs/day57.png) <!-- Image --> |
 | 58 |[Payment UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day58)|[Website](https://payment-by-card.netlify.app)|
 | 59 |[Typing Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day59)|[Website](https://notepad-is-typing.netlify.app)|
 | 60 |[Ticking Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day60)|[Website](https://ticking-time-boomboom.netlify.app)|
 | 61 |[Newspaper UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day61)|[Website](https://jazz-news.netlify.app)|
-| 62 |[Virtual Invite Ticket UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Image](imgs&gifs/day62.png)|
+| 62 |[Virtual Invite Ticket UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day62)|[Image](imgs&gifs/day62.png) <!-- Image -->|
 | 63 |[Virtual Invite UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day63)|[Website](https://card-invitation.netlify.app)|
 | 64 |[Buttons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day64)|[Website](https://just-some-buttons.netlify.app)|
 | 65 |[Animated Icons + Custom Emojis](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day65)|[Website](https://custom-emojis-and-animations.netlify.app)|
-| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Image](imgs&gifs/day66.png)|
+| 66 |[Windows 10 UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day66)|[Image](imgs&gifs/day66.png) <!-- Image --> |
 | 67 |[SwipeWallet](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day67)|[Website](https://swipewallet.netlify.app)| 
-| 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Image](imgs&gifs/day68.png)|
+| 68 |[Clue Calendar](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day68)|[Image](imgs&gifs/day68.png) <!-- Image --> |
 | 69 |[Wage Gap Calculator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day69)|[Website](https://woc-paygap.netlify.app)|
 | 70 |[Hackathon Blog](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day70)|[Website](https://hackathon-blog.netlify.app)|
 | 71 |[Zodiac](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day71)|[Website](https://unserious-starsigns.netlify.app)|
 | 72 |[Donation Links](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day72)|[Website](https://charity-links-uk.netlify.app)|
-| 73 |[CSS Bar Graph](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day73)|[Image](imgs&gifs/day73.png)|
+| 73 |[CSS Bar Graph](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day73)|[Image](imgs&gifs/day73.png) <!-- Image --> |
 | 74 |[CSS Glowing Icons](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day74)|[Website](https://glowing-icons.netlify.app)|
 | 75 |[CSS Paper Snowflakes](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day75)|[Website](https://paper-snowflakes.netlify.app)|
 | 76 |[Page Turner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day76)|[Website](#)|
