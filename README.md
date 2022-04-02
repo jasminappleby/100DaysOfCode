@@ -115,7 +115,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 75 |[CSS Paper Snowflakes](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day75)|[Website](https://paper-snowflakes.netlify.app)|
 | 76 |[Page Turner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day76)|[Website](https://page-turn.netlify.app)|
 | 77 |[Progress](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day77)|[Website](https://day-progression.netlify.app)|
-| 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](#)|
+| 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](https://newtons-cradle.netlify.app)|
 | 79 |[Music UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day79)|[Website](#)|
 | 80 |[Rock, Paper, Scissors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day80)|[Website](#)|
 | 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Website](#)|
