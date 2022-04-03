@@ -9,6 +9,128 @@
     <title>Music UI</title>
 </head>
 <body>
-    
+    <div class="player">
+        <div class="player__header">
+            <div class="player__img player__img--absolute slider">
+                <button class="player__button player__button--absolute--nw playlist">
+                <img src="http://physical-authority.surge.sh/imgs/icon/playlist.svg" alt="playlist-icon">
+                </button>
+                <button class="player__button player__button--absolute--center play">
+                <img src="http://physical-authority.surge.sh/imgs/icon/play.svg" alt="play-icon">
+                <img src="http://physical-authority.surge.sh/imgs/icon/pause.svg" alt="pause-icon">
+                </button>
+                <div class="slider__content">
+                    <img class="img slider__img" src="https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png" alt="cover"> <!-- 1. Justin Bieber - No Sense ft Big Sean -->
+                    <img class="img slider__img" src="https://upload.wikimedia.org/wikipedia/en/a/a0/Ariana_Grande_-_Positions.png" alt="cover"> <!-- 2. Ariana Grande - motive ft. Doja Cat -->
+                    <img class="img slider__img" src="https://upload.wikimedia.org/wikipedia/en/6/6e/Burna_Boy_-_African_Giant.png" alt="cover"> <!-- 3. Burna Boy - Anybody -->
+                    <img class="img slider__img" src="https://i1.sndcdn.com/artworks-t2za8OBYLW4KCMoX-UIdQsQ-t500x500.jpg" alt="cover"> <!-- 4. Travis Scott - Vision -->
+                    <img class="img slider__img" src="https://upload.wikimedia.org/wikipedia/en/3/35/She%27s_All_I_Wanna_Be_Cover_Art.jpg" alt="cover"> <!-- 5. Tate McRae - she's all i wanna be -->
+                    <img class="img slider__img" src="https://i0.wp.com/www.naijagig.com/wp-content/uploads/2022/03/Asake_Sungba_Remix_ft_Burna_Boy-mp3-image.jpg?fit=1500%2C1500&ssl=1" alt="cover"> <!-- 6. Asake - Sungba ft. Burna Boy -->
+                    <img class="img slider__img" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Tyga_%26_Doja_Cat_%22Freaky_Deaky%22_cover_art.jpeg/220px-Tyga_%26_Doja_Cat_%22Freaky_Deaky%22_cover_art.jpeg" alt="cover"> <!-- 7. Doja Cat - Freaky Deaky ft. Tyga -->
+                </div>
+            </div>
+            <div class="player__controls">
+                <button class="player__button back">
+                <img class="img" src="http://physical-authority.surge.sh/imgs/icon/back.svg" alt="back-icon">
+                </button>
+                <p class="player__context slider__context">
+                    <strong class="slider__name"></strong>
+                    <span class="player__title slider__title"></span>
+                </p>
+                <button class="player__button next">
+                <img class="img" src="http://physical-authority.surge.sh/imgs/icon/next.svg" alt="next-icon">
+                </button>
+                <div class="progres">
+                    <div class="progres__filled"></div>
+                </div>
+            </div>
+        </div>
+        <ul class="player__playlist list">
+            <!-- 1. Justin Bieber - No Sense ft Big Sean -->
+            <li class="player__song">
+                <img class="player__img img" src="https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png" alt="cover">
+                <p class="player__context">
+                    <b class="player__song-name"></b>
+                    <span class="flex">
+                    <span class="player__title">Justin Bieber</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/1.mp3"></audio>
+            </li>
+            <!-- 2. Ariana Grande - Motive ft. Doja Cat -->
+            <li class="player__song">
+                <img class="player__img img" src="https://upload.wikimedia.org/wikipedia/en/a/a0/Ariana_Grande_-_Positions.png" alt="cover">
+                <p class="player__context">
+                    <b class="player__song-name">motive ft. Doja Cat</b>
+                    <span class="flex">
+                    <span class="player__title">Ariana Grande</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/2.mp3"></audio>
+            </li>
+            <!-- 3. Burna Boy - Anybody -->
+            <li class="player__song">
+                <img class="player__img img" src="https://upload.wikimedia.org/wikipedia/en/6/6e/Burna_Boy_-_African_Giant.png" alt="cover">
+                <p class="player__context">
+                    <b class="player__song-name">Anybody</b>
+                    <span class="flex">
+                    <span class="player__title">Burna Boy</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/3.mp3"></audio>
+            </li>
+            <!-- 4. Travis Scott - Vision -->
+            <li class="player__song">
+                <img class="player__img img" src="https://i1.sndcdn.com/artworks-t2za8OBYLW4KCMoX-UIdQsQ-t500x500.jpg" alt="cover">
+                <p class="player__context">
+                    <b class="player__song-name">Vision</b>
+                    <span class="flex">
+                    <span class="player__title">Travis Scott</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/4.mp3"></audio>
+            </li>
+            <!-- 5. Tate McRae - she's all i wanna be -->
+            <li class="player__song">
+                <img class="player__img img" src="https://upload.wikimedia.org/wikipedia/en/3/35/She%27s_All_I_Wanna_Be_Cover_Art.jpg" alt="cover">
+                <p class="player__context ">
+                    <b class="player__song-name">she's all i wanna be</b>
+                    <span class="flex">
+                    <span class="player__title">Tate McRae</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/5.mp3"></audio>
+            </li>
+            <!-- 6. Asake - Sungba ft. Burna Boy -->
+            <li class="player__song">
+                <img class="player__img img" src="https://i0.wp.com/www.naijagig.com/wp-content/uploads/2022/03/Asake_Sungba_Remix_ft_Burna_Boy-mp3-image.jpg?fit=1500%2C1500&ssl=1" alt="cover">
+                <p class="player__context">
+                    <b class="player__song-name">Asake</b>
+                    <span class="flex">
+                    <span class="player__title">Sungba ft. Burna Boy</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/6.mp3"></audio>
+            </li>
+            <!-- 7. Doja Cat - Freaky Deaky ft. Tyga -->
+            <li class="player__song">
+                <img class="player__img img" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Tyga_%26_Doja_Cat_%22Freaky_Deaky%22_cover_art.jpeg/220px-Tyga_%26_Doja_Cat_%22Freaky_Deaky%22_cover_art.jpeg" alt="cover">
+                <p class="player__context ">
+                    <b class="player__song-name">starlight feat mr gabriel</b>
+                    <span class="flex">
+                    <span class="player__title">jai wolf</span>
+                    <span class="player__song-time"></span>
+                    </span>
+                </p>
+                <audio class="audio" src="http://physical-authority.surge.sh/music/7.mp3"></audio>
+            </li>
+        </ul>
+    </div>
 </body>
 </html>
