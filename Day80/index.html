@@ -9,6 +9,60 @@
     <title>Rock, Paper, Scissors</title>
 </head>
 <body>
-    
+    <h1>Rock-Paper-Scissors</h1>
+    <div class="cs-game">
+        <div class="cs-score">
+            <div class="cs-score-1">Score: <span>0</span></div>
+            <div class="cs-spacer"></div>
+            <div class="cs-score-2">Score: <span>0</span></div>
+        </div>
+        <div class="cs-win-lose win">
+            <p>You win!</p>
+            <div><button class="cs-play-btn">Play again!</button></div>
+        </div>
+        <div class="cs-game-board">
+            <div class="cs-computer">
+                <div class="cs-game-number">1 / 10</div>
+                <div>
+                    <div class="cs-player-1" data-choice="2"><span>Me</span></div>
+                    <div class="cs-spacer"></div>
+                    <div class="cs-player-2" data-choice="2"><span>PC</span></div>
+                </div>
+            </div>
+            <div class="cs-player">
+                <div>
+                    <button class="cs-hand" data-hand="0" data-image="🗿">
+                    <span class="visually-hidden">rock</span>
+                    </button>
+                    <button class="cs-hand" data-hand="1" data-image="🧻">
+                    <span class="visually-hidden">paper</span>
+                    </button>
+                    <button class="cs-hand" data-hand="2" data-image="✂️">
+                    <span class="visually-hidden">scissor</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="info">
+        <div>
+            <label for="toggle-rules"><i>ℹ</i><strong>Rules</strong></label>
+            <input type="checkbox" id="toggle-rules" class="visually-hidden">
+            <div class="rule-list">
+                <p>Best score of 10 plays wins.</p>
+                <ul>
+                    <li>Scissors cuts Paper
+                    </li>
+                    <li>Paper covers Rock
+                    </li>
+                    <li>Rock crushes Scissors
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </body>
+<footer>
+    <p>100 Days Of Code (Day 80): <a href="https://github.com/jasminappleby/100DaysOfCode" target="_blank">Github Repo</a></p>
+</footer>
 </html>
