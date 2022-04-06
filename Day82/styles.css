@@ -165,3 +165,352 @@ h1 {
 	height: 5vmin;
 	display: none;
 }
+
+#shuffle [for^="w1_"],
+[id^="w1_"]:checked~#info #shuffle [for^="w2_"],
+[id^="w2_"]:checked~#info #shuffle [for^="w3_"],
+[id^="w3_"]:checked~#info #shuffle [for^="w4_"],
+[id^="w4_"]:checked~#info #shuffle [for^="w5_"],
+#info #i0,
+[id="rnd"]:checked~#info #i1,
+[id^="w1_"]:checked~#info #i2,
+[id^="w2_"]:checked~#info #i3,
+[id^="w3_"]:checked~#info #i4,
+[id^="w4_"]:checked~#info #i5 {
+	display: block;
+}
+
+[id^="w1_"]:checked~#info #shuffle [for^="w1_"],
+[id^="w2_"]:checked~#info #shuffle [for^="w2_"],
+[id^="w3_"]:checked~#info #shuffle [for^="w3_"],
+[id^="w4_"]:checked~#info #shuffle [for^="w4_"],
+[id="rnd"]:checked~#info #i0,
+[id^="w1_"]:checked~#info #i1,
+[id^="w2_"]:checked~#info #i2,
+[id^="w3_"]:checked~#info #i3,
+[id^="w4_"]:checked~#info #i4,
+[id^="w5_"]:checked~#info #i5,
+[id^="w5_"]:checked~#info {
+	display: none;
+}
+
+#message,
+#answer {
+	display: none;
+	position: absolute;
+	width: 30vmin;
+	height: 8vmin;
+	margin: 0;
+	padding: 0;
+	left: 50%;
+	top: 23vmin;
+	transform: translateX(-50%);
+	background: #333;
+	border-radius: 1vmin;
+	color: white;
+	text-align: center;
+	font-size: 4vmin;
+	line-height: 8vmin;
+}
+
+#answer {
+	text-transform: uppercase;
+}
+
+#message::before {
+	content: "Genius";
+}
+
+[id^="g2-"]:checked~#message::before {
+	content: "Magnificent";
+}
+
+[id^="g3-"]:checked~#message::before {
+	content: "Impressive";
+}
+
+[id^="g4-"]:checked~#message::before {
+	content: "Splendid";
+}
+
+[id^="g5-"]:checked~#message::before {
+	content: "Great";
+}
+
+[id^="g6-"]:checked~#message::before {
+	content: "Phew";
+}
+
+[id^="g6-"]:checked~#answer {
+	display: block;
+}
+
+[id$="-win"]:checked~#message {
+	display: block;
+}
+
+[id$="-win"]:checked~#keys label,
+#g6-check:checked~#keys label {
+	pointer-events: none;
+}
+
+#letters {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: calc(var(--letter) * 6.5);
+	margin: 0 auto;
+}
+
+#letters div {
+	width: var(--letter);
+	height: var(--letter);
+	margin-bottom: calc(var(--letter) * 0.2);
+	border: 0.5vmin silver solid;
+	line-height: var(--letter);
+	font-size: calc(var(--letter) * 0.6);
+	text-align: center;
+}
+
+#keys {
+	display: flex;
+	flex-wrap: wrap;
+	width: calc(var(--letter) * 13);
+	margin: 0 auto;
+	justify-content: center;
+}
+
+#keys>label,
+#keys>div {
+	display: none;
+	width: var(--key_w);
+	height: var(--key_h);
+	margin: 1vmin;
+	background: silver;
+	border-radius: 1vmin;
+	line-height: var(--key_h);
+	font-size: calc(var(--key_w) * 0.6);
+	text-align: center;
+	position: relative;
+}
+
+#keys>div label {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+}
+
+#keys [for$="_a"] {
+	margin-left: 2vmin;
+}
+
+#keys [for$="_l"] {
+	margin-right: 2vmin;
+}
+
+#keys .g1_,
+#keys .g2_,
+#keys .g3_,
+#keys .g4_,
+#keys .g5_,
+#keys .g6_,
+#keys .enter {
+	width: calc(var(--key_w) * 1.5);
+	font-size: 2.5vmin;
+	text-transform: uppercase;
+}
+
+#keys .g1_::before,
+#keys .g2_::before,
+#keys .g3_::before,
+#keys .g4_::before,
+#keys .g5_::before,
+#keys .g6_::before,
+#keys .enter::before {
+	content: "Enter";
+}
+
+#keys [for$="_1"],
+#keys [for$="_2"],
+#keys [for$="_3"],
+#keys [for$="_4"],
+#keys [for$="_5"] {
+	width: calc(var(--key_w) * 1.5);
+	font-size: 3.5vmin;
+}
+
+#keys [for$="_1"]::before,
+#keys [for$="_2"]::before,
+#keys [for$="_3"]::before,
+#keys [for$="_4"]::before,
+#keys [for$="_5"]::before {
+	content: "\232B";
+}
+
+#keys .enter {
+	overflow: hidden;
+	position: relative;
+}
+
+#keys [for$="-win"] {
+	position: absolute;
+	display: none;
+	visibility: hidden;
+	opacity: 0;
+	left: -200vw;
+	top: -200vh;
+}
+
+#keys [for^="g1_1_"],
+#keys [for="g1_1"],
+#keys .g1_,
+[id^="g1_1_"]:checked~#keys [for^="g1_2_"],
+[id^="g1_1_"]:checked~#keys [for="g1_1"],
+[id^="g1_2_"]:checked~#keys [for^="g1_3_"],
+[id^="g1_2_"]:checked~#keys [for="g1_2"],
+[id^="g1_3_"]:checked~#keys [for^="g1_4_"],
+[id^="g1_3_"]:checked~#keys [for="g1_3"],
+[id^="g1_4_"]:checked~#keys [for^="g1_5_"],
+[id^="g1_4_"]:checked~#keys [for="g1_4"],
+[id^="g1_5_"]:checked~#keys .e1,
+[id^="g1_5_"]:checked~#keys [for="g1_5"],
+[id^="g1-"]:checked~#keys [for^="g2_1_"],
+[id^="g1-"]:checked~#keys [for="g2_1"],
+[id^="g1-"]:checked~#keys .g2_,
+[id^="g2_1_"]:checked~#keys [for^="g2_2_"],
+[id^="g2_1_"]:checked~#keys [for="g2_1"],
+[id^="g2_2_"]:checked~#keys [for^="g2_3_"],
+[id^="g2_2_"]:checked~#keys [for="g2_2"],
+[id^="g2_3_"]:checked~#keys [for^="g2_4_"],
+[id^="g2_3_"]:checked~#keys [for="g2_3"],
+[id^="g2_4_"]:checked~#keys [for^="g2_5_"],
+[id^="g2_4_"]:checked~#keys [for="g2_4"],
+[id^="g2_5_"]:checked~#keys .e2,
+[id^="g2_5_"]:checked~#keys [for="g2_5"],
+[id^="g2-"]:checked~#keys [for^="g3_1_"],
+[id^="g2-"]:checked~#keys [for="g3_1"],
+[id^="g2-"]:checked~#keys .g3_,
+[id^="g3_1_"]:checked~#keys [for^="g3_2_"],
+[id^="g3_1_"]:checked~#keys [for="g3_1"],
+[id^="g3_2_"]:checked~#keys [for^="g3_3_"],
+[id^="g3_2_"]:checked~#keys [for="g3_2"],
+[id^="g3_3_"]:checked~#keys [for^="g3_4_"],
+[id^="g3_3_"]:checked~#keys [for="g3_3"],
+[id^="g3_4_"]:checked~#keys [for^="g3_5_"],
+[id^="g3_4_"]:checked~#keys [for="g3_4"],
+[id^="g3_5_"]:checked~#keys .e3,
+[id^="g3_5_"]:checked~#keys [for="g3_5"],
+[id^="g3-"]:checked~#keys [for^="g4_1_"],
+[id^="g3-"]:checked~#keys [for="g4_1"],
+[id^="g3-"]:checked~#keys .g4_,
+[id^="g4_1_"]:checked~#keys [for^="g4_2_"],
+[id^="g4_1_"]:checked~#keys [for="g4_1"],
+[id^="g4_2_"]:checked~#keys [for^="g4_3_"],
+[id^="g4_2_"]:checked~#keys [for="g4_2"],
+[id^="g4_3_"]:checked~#keys [for^="g4_4_"],
+[id^="g4_3_"]:checked~#keys [for="g4_3"],
+[id^="g4_4_"]:checked~#keys [for^="g4_5_"],
+[id^="g4_4_"]:checked~#keys [for="g4_4"],
+[id^="g4_5_"]:checked~#keys .e4,
+[id^="g4_5_"]:checked~#keys [for="g4_5"],
+[id^="g4-"]:checked~#keys [for^="g5_1_"],
+[id^="g4-"]:checked~#keys [for="g5_1"],
+[id^="g4-"]:checked~#keys .g5_,
+[id^="g5_1_"]:checked~#keys [for^="g5_2_"],
+[id^="g5_1_"]:checked~#keys [for="g5_1"],
+[id^="g5_2_"]:checked~#keys [for^="g5_3_"],
+[id^="g5_2_"]:checked~#keys [for="g5_2"],
+[id^="g5_3_"]:checked~#keys [for^="g5_4_"],
+[id^="g5_3_"]:checked~#keys [for="g5_3"],
+[id^="g5_4_"]:checked~#keys [for^="g5_5_"],
+[id^="g5_4_"]:checked~#keys [for="g5_4"],
+[id^="g5_5_"]:checked~#keys .e5,
+[id^="g5_5_"]:checked~#keys [for="g5_5"],
+[id^="g5-"]:checked~#keys [for^="g6_1_"],
+[id^="g5-"]:checked~#keys [for="g6_1"],
+[id^="g5-"]:checked~#keys .g6_,
+[id^="g6_1_"]:checked~#keys [for^="g6_2_"],
+[id^="g6_1_"]:checked~#keys [for="g6_1"],
+[id^="g6_2_"]:checked~#keys [for^="g6_3_"],
+[id^="g6_2_"]:checked~#keys [for="g6_2"],
+[id^="g6_3_"]:checked~#keys [for^="g6_4_"],
+[id^="g6_3_"]:checked~#keys [for="g6_3"],
+[id^="g6_4_"]:checked~#keys [for^="g6_5_"],
+[id^="g6_4_"]:checked~#keys [for="g6_4"],
+[id^="g6_5_"]:checked~#keys .e6,
+[id^="g6_5_"]:checked~#keys [for="g6_5"] {
+	display: block;
+}
+
+[id^="g1_1_"]:checked~#keys [for^="g1_1_"],
+[id^="g1_2_"]:checked~#keys [for^="g1_2_"],
+[id^="g1_2_"]:checked~#keys [for="g1_1"],
+[id^="g1_3_"]:checked~#keys [for^="g1_3_"],
+[id^="g1_3_"]:checked~#keys [for="g1_2"],
+[id^="g1_4_"]:checked~#keys [for^="g1_4_"],
+[id^="g1_4_"]:checked~#keys [for="g1_3"],
+[id^="g1_5_"]:checked~#keys [for="g1_4"],
+[id^="g1_5_"]:checked~#keys .g1_,
+[id^="g1-"]:checked~#keys [for^="g1"],
+[id^="g1-"]:checked~#keys [for="g1_5"],
+[id^="g1-"]:checked~#keys .e1,
+[id^="g2_1_"]:checked~#keys [for^="g2_1_"],
+[id^="g2_2_"]:checked~#keys [for^="g2_2_"],
+[id^="g2_2_"]:checked~#keys [for="g2_1"],
+[id^="g2_3_"]:checked~#keys [for^="g2_3_"],
+[id^="g2_3_"]:checked~#keys [for="g2_2"],
+[id^="g2_4_"]:checked~#keys [for^="g2_4_"],
+[id^="g2_4_"]:checked~#keys [for="g2_3"],
+[id^="g2_5_"]:checked~#keys [for="g2_4"],
+[id^="g2_5_"]:checked~#keys .g2_,
+[id^="g2-"]:checked~#keys [for^="g2"],
+[id^="g2-"]:checked~#keys [for="g2_5"],
+[id^="g2-"]:checked~#keys .e2,
+[id^="g3_1_"]:checked~#keys [for^="g3_1_"],
+[id^="g3_2_"]:checked~#keys [for^="g3_2_"],
+[id^="g3_2_"]:checked~#keys [for="g3_1"],
+[id^="g3_3_"]:checked~#keys [for^="g3_3_"],
+[id^="g3_3_"]:checked~#keys [for="g3_2"],
+[id^="g3_4_"]:checked~#keys [for^="g3_4_"],
+[id^="g3_4_"]:checked~#keys [for="g3_3"],
+[id^="g3_5_"]:checked~#keys [for="g3_4"],
+[id^="g3_5_"]:checked~#keys .g3_,
+[id^="g3-"]:checked~#keys [for^="g3"],
+[id^="g3-"]:checked~#keys [for="g3_5"],
+[id^="g3-"]:checked~#keys .e3,
+[id^="g4_1_"]:checked~#keys [for^="g4_1_"],
+[id^="g4_2_"]:checked~#keys [for^="g4_2_"],
+[id^="g4_2_"]:checked~#keys [for="g4_1"],
+[id^="g4_3_"]:checked~#keys [for^="g4_3_"],
+[id^="g4_3_"]:checked~#keys [for="g4_2"],
+[id^="g4_4_"]:checked~#keys [for^="g4_4_"],
+[id^="g4_4_"]:checked~#keys [for="g4_3"],
+[id^="g4_5_"]:checked~#keys [for="g4_4"],
+[id^="g4_5_"]:checked~#keys .g4_,
+[id^="g4-"]:checked~#keys [for^="g4"],
+[id^="g4-"]:checked~#keys [for="g4_5"],
+[id^="g4-"]:checked~#keys .e4,
+[id^="g5_1_"]:checked~#keys [for^="g5_1_"],
+[id^="g5_2_"]:checked~#keys [for^="g5_2_"],
+[id^="g5_2_"]:checked~#keys [for="g5_1"],
+[id^="g5_3_"]:checked~#keys [for^="g5_3_"],
+[id^="g5_3_"]:checked~#keys [for="g5_2"],
+[id^="g5_4_"]:checked~#keys [for^="g5_4_"],
+[id^="g5_4_"]:checked~#keys [for="g5_3"],
+[id^="g5_5_"]:checked~#keys [for="g5_4"],
+[id^="g5_5_"]:checked~#keys .g5_,
+[id^="g5-"]:checked~#keys [for^="g5"],
+[id^="g5-"]:checked~#keys [for="g5_5"],
+[id^="g5-"]:checked~#keys .e5,
+[id^="g6_1_"]:checked~#keys [for^="g6_1_"],
+[id^="g6_2_"]:checked~#keys [for^="g6_2_"],
+[id^="g6_2_"]:checked~#keys [for="g6_1"],
+[id^="g6_3_"]:checked~#keys [for^="g6_3_"],
+[id^="g6_3_"]:checked~#keys [for="g6_2"],
+[id^="g6_4_"]:checked~#keys [for^="g6_4_"],
+[id^="g6_4_"]:checked~#keys [for="g6_3"],
+[id^="g6_5_"]:checked~#keys [for="g6_4"],
+[id^="g6_5_"]:checked~#keys .g6_ {
+	display: none;
+}
