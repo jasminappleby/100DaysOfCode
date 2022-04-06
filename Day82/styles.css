@@ -89,7 +89,7 @@ h1 {
 	background: white;
 	border: 0.5vmin grey solid;
 	border-radius: 2vmin;
-	font-size: 4vmin;
+	font-size: 25px;
 	text-align: center;
 }
 
@@ -138,7 +138,7 @@ h1 {
 }
 
 #words::before {
-	content: "OK";
+	content: "Next";
 	text-align: center;
 }
 
