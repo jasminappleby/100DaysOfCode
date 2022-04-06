@@ -1,0 +1,167 @@
+body {
+	--col-right: #6aaa64;
+	--col-place: #c9b458;
+	--col-wrong: #787c7e;
+	--letter: 7vmin;
+	--key_w: 7vmin;
+	--key_h: 9vmin;
+	width: 100vmin;
+	height: 100vmin;
+	margin: 0 auto;
+	font-family: sans-serif;
+}
+
+input {
+	position: absolute;
+	left: -999vmax;
+}
+
+label {
+	display: block;
+	cursor: pointer;
+}
+
+h1 {
+	margin: 0 auto;
+	padding: 0;
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+[for="reset"],
+[for="col"] {
+	position: absolute;
+	width: 4vmin;
+	height: 4vmin;
+	left: calc(50vw + 17vmin);
+	top: 2vmin;
+}
+
+[for="col"] {
+	background: grey;
+	border-radius: 50%;
+}
+
+[for="reset"] {
+	left: calc(50vw - 21vmin);
+	font-size: 4vmin;
+	line-height: 4vmin;
+	font-weight: bold;
+	text-align: center;
+	color: grey;
+}
+
+[for="reset"]::before {
+	content: "\21BB";
+}
+
+[for="col"]::before {
+	content: "";
+	position: absolute;
+	width: 1.7vmin;
+	height: 3.4vmin;
+	left: 2vmin;
+	top: 0.3vmin;
+	background: white;
+	border-radius: 0 1.7vmin 1.7vmin 0;
+	transform-origin: 0 50%;
+}
+
+#col:checked~[for="col"]::before {
+	transform: scaleX(-1);
+}
+
+#col:checked~form {
+	--col-right: #f5793a;
+	--col-place: #85c0f9;
+	--col-wrong: #787c7e;
+}
+
+#info {
+	position: absolute;
+	width: 54vmin;
+	height: 18vmin;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	padding: 2vmin;
+	background: white;
+	border: 0.5vmin grey solid;
+	border-radius: 2vmin;
+	font-size: 4vmin;
+	text-align: center;
+}
+
+#info p {
+	display: none;
+	margin: 0;
+	padding: 0;
+}
+
+#i2 span {
+	background: var(--col-right);
+	color: white;
+}
+
+#i3 span {
+	background: var(--col-place);
+	color: white;
+}
+
+#i4 span {
+	background: var(--col-wrong);
+	color: white;
+}
+
+[for="rnd"],
+#words {
+	position: absolute;
+	width: 10vmin;
+	height: 5vmin;
+	left: 50%;
+	bottom: 2vmin;
+	transform: translateX(-50%);
+}
+
+#rnd:checked~#info [for="rnd"] {
+	display: none;
+}
+
+#words {
+	background: red;
+	border-radius: 1vmin;
+	font-size: 3vmin;
+	line-height: 5vmin;
+	color: white;
+	overflow: hidden;
+}
+
+#words::before {
+	content: "OK";
+	text-align: center;
+}
+
+@keyframes shuffle {
+	100% {
+		top: calc(5vmin * -20);
+	}
+}
+
+#shuffle {
+	position: absolute;
+	width: 100%;
+	height: calc(5vmin * 20);
+	top: 0;
+	animation: shuffle 1s steps(20) infinite;
+}
+
+#rnd:checked~#info #shuffle {
+	animation-play-state: paused;
+}
+
+#shuffle label {
+	width: 100%;
+	height: 5vmin;
+	display: none;
+}
