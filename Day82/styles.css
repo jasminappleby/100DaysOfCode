@@ -4941,3 +4941,10 @@ h1 {
 #w5_z:checked~#g6_5_z:checked~#keys [for="g6-win"] {
 	top: 0;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
