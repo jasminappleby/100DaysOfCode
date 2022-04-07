@@ -131,10 +131,10 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 89 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](#)|
 | 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](#)|
 | 91 |[Sweet Cow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](#)|
-| 92 |[Day 92](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Website](#)|
-| 93 |[Day 93](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](#)|
-| 94 |[Day 94](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Website](#)|
-| 95 |[Day 95](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Website](#)|
+| 92 |[Shorter or Longer Days?](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Website](#)|
+| 93 |[Nintendo Switch UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](#)|
+| 94 |[Your Local Weather](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Website](#)|
+| 95 |[Light Switch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Website](#)|
 | 96 |[Day 96](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day96)|[Website](#)|
 | 97 |[Day 97](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Website](#) <!-- Likely will be on holiday from here so days may be missed? --> |
 | 98 |[Day 98](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](#)|
