@@ -30,6 +30,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 
 - Day 73, part three. (28/03) I have tested positive, so it is covid after all this time. It isn't pleasant but I have slightly more focus today than I have done the past two days. Super achy all over though and cant stop coughing all over my screen... gross.
 
+- Day 83 is my biggest code base ever. It is foul and I wish it could be smaller. I am unsure how to make it smaller though. 
+
  -->
 ## Contents
 
@@ -120,15 +122,15 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 80 |[Rock, Paper, Scissors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day80)|[Website](https://rocky-papery-scissory.netlify.app)|
 | 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Website](imgs&gifs/day81.png)|
 | 82 |[Jasmindle (Wordle Clone)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day82)|[Website](https://jasmindle.netlify.app)|
-| 83 |[Day 83](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](#)|
-| 84 |[Day 84](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](#)|
-| 85 |[Day 85](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](#)|
-| 86 |[Day 86](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](#)|
-| 87 |[Day 87](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](#)|
-| 88 |[Day 88](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](#)|
-| 89 |[Day 89](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](#)|
-| 90 |[Day 90](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](#)|
-| 91 |[Day 91](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](#)|
+| 83 |[Cherry Blossoms](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](#)|
+| 84 |[iMessage UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](#)|
+| 85 |[DAL Airlines Loader](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](#)|
+| 86 |[Scroll Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](#)|
+| 87 |[Fingerprint Scanner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](#)|
+| 88 |[Wordle Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](#)|
+| 89 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](#)|
+| 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](#)|
+| 91 |[Sweet Cow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](#)|
 | 92 |[Day 92](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Website](#)|
 | 93 |[Day 93](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](#)|
 | 94 |[Day 94](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Website](#)|
