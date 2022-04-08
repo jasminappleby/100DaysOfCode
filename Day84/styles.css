@@ -1,0 +1,69 @@
+.bubble {
+	mask-image: radial-gradient(#fff 24.5px, #fff 0 25px), radial-gradient(#fff 24.5px, #fff 0 25px), radial-gradient(#fff 24.5px, #fff 0 25px), radial-gradient(#fff 24.5px, #fff 0 25px), linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), url('data:image/svg+xml;utf8, <svg width="39" height="25" viewBox="0 0 39 25" xmlns="http://www.w3.org/2000/svg"><path d="M38.4998 24.5C27.6998 22.1 22.9998 7.5 21.9998 0.5C11.8331 1.83333 -6.30022 6.3 2.49978 13.5C13.4998 22.5 21.9998 24.5 38.4998 24.5Z" /></svg>');
+    mask-position: 0 0, 100% 0, 0 100%, 100% 100%, 0 25px, 25px 0, 100% 100%;
+	mask-size: 50px 50px, 50px 50px, 50px 50px, 50px 50px, 100% calc(100% - 50px), calc(100% - 50px) 100%, 19.5px 12.5px;
+	mask-repeat: no-repeat;
+	margin-bottom: 15px;
+	max-width: 60%;
+	width: fit-content;
+	font-size: 0;
+}
+
+@media (max-width: 600px) {
+	.bubble {
+		max-width: 80%;
+	}
+}
+
+.bubble.right {
+	margin-left: auto;
+	background: #549ef5;
+	color: white;
+}
+
+.bubble.left {
+	background: #e9e9eb;
+	mask-image: radial-gradient(#fff, #fff 24.5px, transparent 25px), radial-gradient(#fff, #fff 24.5px, transparent 25px), radial-gradient(#fff, #fff 24.5px, transparent 25px), radial-gradient(#fff, #fff 24.5px, transparent 25px), linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), url('data:image/svg+xml;utf8, <svg width="39" height="24" viewBox="0 0 39 24" xmlns="http://www.w3.org/2000/svg"><path d="M0.000217438 24C10.8002 21.6 15.5002 7 16.5002 0C26.6669 1.33333 44.8002 5.8 36.0002 13C25.0002 22 16.5002 24 0.000217438 24Z" /></svg>');
+    mask-position: 0 0, 100% 0, 0 100%, 100% 100%, 0 25px, 25px 0, 0 100%;
+}
+
+.bubble img {
+	max-width: 100%;
+}
+
+.bubble p {
+	position: relative;
+	font-size: 18px;
+	line-height: 1.2;
+	font-family: sans-serif;
+	padding: 15px 15px;
+	margin: 0;
+	letter-spacing: 0.02em;
+}
+
+@media (max-width: 600px) {
+	.bubble p {
+		font-size: 16px;
+	}
+}
+
+body {
+	background: #e5e5e5;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 90vh;
+	padding: 20px 10px;
+}
+
+.container {
+	background: white;
+	padding: 25px;
+	width: 100%;
+	max-width: 500px;
+	box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+}
+
+img {
+	max-width: 100%;
+}
