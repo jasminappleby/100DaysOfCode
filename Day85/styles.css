@@ -1,0 +1,5 @@
+body {
+    overflow: hidden;
+    /* Literally didnt think this would work but im literally mind BLOWN */
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1385231/hand-cursor.png"), pointer;
+}
