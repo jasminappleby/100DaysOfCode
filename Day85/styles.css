@@ -59,3 +59,18 @@ body {
     align-items: center;
     background-color: #1999cc;
 }
+
+#plane-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+  
+  
