@@ -24,3 +24,38 @@ body {
     background-size: cover;
     background-position: center center;
 }
+
+.cover-image.end {
+    clip-path: circle(0% at 50% 50%);
+    background: url("https://images.nintendolife.com/be6062145c3f5/1280x720.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+  
+#plane-svg {
+    max-height: 250px;
+    max-width: 250px;
+    display: flex;
+    justify-content: flex-end;
+}
+  
+#logo-svg {
+    max-height: 250px;
+    max-width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+#logo-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #1999cc;
+}
