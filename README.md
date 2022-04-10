@@ -125,7 +125,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 83 |[Cherry Blossoms](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](https://cherry-blossoms.netlify.app)|
 | 84 |[iMessage UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](imgs&gifs/day84.png)|
 | 85 |[DAL Airlines Loader](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](https://dal-airlines-loader.netlify.app)|
-| 86 |[Scroll Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](#)|
+| 86 |[Scroll Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](#) <!-- migraine + exhaustion. tomorrow -->|
 | 87 |[Fingerprint Scanner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](#)|
 | 88 |[Wordle Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](#)|
 | 89 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](#)|
