@@ -1,29 +1,28 @@
 * {
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:consolas;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    min-height:100vh;
-    background:#111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #111;
 }
 
 .scan {
-    position:relative;
-    display:flex;
-    flex-direction:column;
-    align-items:center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .scan .fingerprint {
-    position:relative;
-    width:300px;
-    height:300px;
-    background:url(https://assets.codepen.io/4421919/fingerprint.png);
-    background-size:300px;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background: url(https://pngimg.com/uploads/fingerprint/fingerprint_PNG21.png);
+    background-size: 300px;
 }
