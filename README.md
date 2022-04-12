@@ -128,7 +128,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 84 |[iMessage UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](imgs&gifs/day84.png)|
 | 85 |[DAL Airlines Loader](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](https://dal-airlines-loader.netlify.app)|
 | 86 |[Scroll Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](https://scroll-down-the-screen.netlify.app)|
-| 87 |[Fingerprint Scanner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](#)|
+| 87 |[Fingerprint Scanner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](https://fingerprint-scanner.netlify.app)|
 | 88 |[Wordle Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](#)|
 | 89 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](#)|
 | 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](#)|
