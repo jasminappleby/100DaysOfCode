@@ -1,10 +1,10 @@
 let now = new Date();
 
 let colors = [
-    "rgba(116,120,122)",
-    "rgba(121,168,104)",
-    "rgba(116,120,122)",
-    "rgba(191,174,99)"
+  "rgba(116,120,122)",
+  "rgba(121,168,104)",
+  "rgba(116,120,122)",
+  "rgba(191,174,99)"
 ];
 
 let animateIfNeeded = function (element, numVal) {

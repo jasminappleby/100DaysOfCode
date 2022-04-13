@@ -1,0 +1,22 @@
+div.container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+div.tile-container {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0px 5px;
+}
+  
+div.tile {
+    font-size: 40px; font-family: sans-serif; color: white;
+    height: 45px; width:40px;
+    margin: 0px 1px;
+    background-color: rgba(121,168,104);
+    transition: transform 0.3s;
+}
+  
+  
