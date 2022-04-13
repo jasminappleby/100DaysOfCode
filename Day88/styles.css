@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
 div.container {
     display:flex;
     align-items: center;
@@ -19,4 +21,11 @@ div.tile {
     transition: transform 0.3s;
 }
   
-  
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
