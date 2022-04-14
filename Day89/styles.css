@@ -131,3 +131,29 @@ footer {
 	opacity: 0.75;
 	background-color: #081020;
 }
+
+.panel #switch:checked~label {
+	background-color: #c9c9c9;
+	border-color: #aaa #999 #a5a5a5 #999;
+	box-shadow: 0px 5px 4px 2px rgba(0, 0, 0, 0.1) inset, 0px 2rem 0px -1px rgba(0, 0, 0, 0.2);
+}
+
+.panel #switch:checked~label::before {
+	top: 4.5rem;
+	box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
+	border-width: 2rem 2px 0.5rem 2px;
+}
+
+.panel #switch:checked~label::after {
+	content: 'OFF';
+	bottom: 0.9rem;
+	color: #b87;
+	z-index: 0;
+	opacity: 1;
+	text-shadow: none;
+	transform: translateY(-5rem);
+}
+
+.panel #switch:checked~.overlay {
+	opacity: 0;
+}
