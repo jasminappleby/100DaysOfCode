@@ -9,3 +9,57 @@ html {
 	box-sizing: border-box;
 	font-size: 62.5%;
 }
+
+html body {
+	font-size: 1.6rem;
+	position: relative;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+	background-color: #d9d9d9;
+}
+
+.panel {
+	position: relative;
+	width: 24rem;
+	height: 36rem;
+	background-color: #eee;
+	border-radius: 2px;
+	border-width: 1rem 0.6rem 0.3rem 0.6rem;
+	border-style: solid;
+	border-color: #fff #ccc #aaa #ddd;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: 0px 7px 0px rgba(0, 0, 0, 0.15);
+}
+
+.panel::before, .panel::after {
+	content: '';
+	display: block;
+	width: 2.5rem;
+	height: 2.5rem;
+	border: solid 1rem #bbb;
+	background-color: #777;
+	border-width: 1.1rem 0 1.1rem;
+	border-radius: 1.5rem;
+	box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.5), 0px -1px 0px 0px rgba(255, 255, 255, 0.5);
+}
+
+.panel::before {
+	transform: rotate(30deg);
+}
+
+.panel::after {
+	transform: rotate(-10deg);
+}
+
+.panel input {
+	display: none;
+}
+
