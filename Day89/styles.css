@@ -63,3 +63,62 @@ html body {
 	display: none;
 }
 
+.panel label {
+	display: block;
+	position: relative;
+	background-color: #aaa;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	width: 5rem;
+	height: 10rem;
+	cursor: pointer;
+	transition: all 0.2s;
+	border-radius: 2px;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3) inset;
+	border-style: solid;
+	border-width: 3px 2px 4px 2px;
+	border-color: #aaa #999 #ddd #999;
+}
+
+.panel label::before, .panel label::after {
+	content: '';
+	display: block;
+	position: absolute;
+}
+
+.panel label::before {
+	transition: all 0.2s;
+	width: 95%;
+	height: 5rem;
+	background-color: #ccc;
+	border-style: solid;
+	border-width: 0.5rem 2px 2rem 2px;
+	border-color: #eee #aaa #888 #ddd;
+	top: 0;
+	box-shadow: 0px 2.5rem 2px rgba(0, 0, 0, 0.1);
+	z-index: 1;
+}
+
+.panel label::after {
+	transition: bottom 0.2s;
+	content: 'ON';
+	bottom: 6.2rem;
+	transform: translateY(5rem);
+	color: #af7;
+	z-index: 3;
+	opacity: 0.75;
+	text-shadow: 0px 0px 0.7rem #bf9, 0px 0px 2rem #bf9;
+}
+
+.panel .overlay {
+	transition: background-color 0.3s 0.1s, opacity 0.3s 0.1s;
+	position: fixed;
+	display: block;
+	width: 110vw;
+	height: 110vh;
+	z-index: 2;
+	pointer-events: none;
+	opacity: 0.75;
+	background-color: #081020;
+}
