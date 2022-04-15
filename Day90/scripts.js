@@ -140,7 +140,7 @@ class Square {
 	constructor(settings) {
 		this.props = Object.assign(defaultSettings.dot, settings);
 
-		this.element = document.createElementNS("", "rect");
+		this.element = document.createElementNS("http://www.w3.org/2000/svg", "rect");
 		this.setElement();
 	}
 
