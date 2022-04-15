@@ -83,4 +83,88 @@ class Grid {
 	}
 }
 
+class Illustration {
+	svg;
+	wrapper;
+	elements;
+
+	constructor(settings) {
+		this.props = Object.assign(defaultSettings.illustration, settings);
+
+		this.wrapper = document.querySelector(this.props.selector);
+		this.setSVG();
+		this.draw();
+	}
+
+	setSVG(selector) {
+		this.svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+		this.svg.setAttribute(
+			"viewBox",
+			`${this.props.x} ${this.props.y} ${this.props.width} ${this.props.height}`
+		);
+
+		this.wrapper.append(this.svg);
+	}
+
+	getSVG() {
+		return this.svg;
+	}
+
+	draw() {
+		this.elements = [];
+
+		this.props.cells.forEach((cell) => {
+			const color = this.props.theme.color
+				? this.props.theme.color
+				: `hsl(${
+						cell.noise * this.props.theme.deviation + this.props.theme.offset
+				  }, ${this.props.theme.saturation}%, ${this.props.theme.lightness}%)`;
+
+			const element = new Square({
+				x: cell.position.x,
+				y: cell.position.y,
+				width: cell.size.width,
+				height: cell.size.height,
+				fill: color
+			});
+			this.elements.push(element.getElement());
+		});
+
+		this.svg.append(...this.elements);
+	}
+}
+
+class Square {
+	element;
+
+	constructor(settings) {
+		this.props = Object.assign(defaultSettings.dot, settings);
+
+		this.element = document.createElementNS("", "rect");
+		this.setElement();
+	}
+
+	getElement() {
+		return this.element;
+	}
+
+	setElement() {
+		console.log(this.props);
+		this.element.setAttribute("x", this.props.x);
+		this.element.setAttribute("y", this.props.y);
+		this.element.setAttribute("width", this.props.width);
+		this.element.setAttribute("height", this.props.height);
+		this.element.style.fill = this.props.fill;
+	}
+}
+
+function clamp(num, min, max) {
+	return Math.min(Math.max(num, min), max);
+}
+
+const grid = new Grid();
+const illustration = new Illustration({
+	cells: grid.getGrid()
+});
+
 
