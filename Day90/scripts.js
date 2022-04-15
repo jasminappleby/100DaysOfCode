@@ -36,3 +36,51 @@ const defaultSettings = {
 		scale: 0
 	}
 };
+
+class Grid {
+	props;
+
+	cellWidth = 0;
+	cellHeight = 0;
+	grid = [];
+
+	constructor(settings) {
+		this.props = Object.assign(defaultSettings.grid, settings);
+
+		this.grid = [];
+		this.cellWidth = Math.floor(this.props.width / this.props.density);
+		this.cellHeight = Math.floor(this.props.height / this.props.density);
+
+		this.setGrid();
+	}
+
+	setGrid() {
+		const simplex = new SimplexNoise(this.props.seed);
+
+		for (
+			let y = this.props.start.y;
+			y < this.props.height;
+			y += this.cellHeight
+		) {
+			for (let x = this.props.start.x; x < this.props.width; x += this.cellWidth) {
+				this.grid.push({
+					position: {
+						x: x,
+						y: y
+					},
+					size: {
+						width: this.cellWidth,
+						height: this.cellHeight
+					},
+					noise: simplex.noise2D(x / this.props.xScale, y / this.props.yScale)
+				});
+			}
+		}
+	}
+
+	getGrid() {
+		return this.grid;
+	}
+}
+
+
