@@ -131,7 +131,7 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 | 87 |[Fingerprint Scanner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](https://fingerprint-scanner.netlify.app)|
 | 88 |[Wordle Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](https://app.netlify.com/sites/wordle-clock/settings/general)|
 | 89 |[Light Switch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](https://switch-off-the-light.netlify.app)|
-| 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](#)|
+| 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](https://pixelated-heat-map.netlify.app)|
 | 91 |[Sweet Cow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](#)|
 | 92 |[Shorter or Longer Days?](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Website](#)|
 | 93 |[Nintendo Switch UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](#)|
