@@ -200,4 +200,13 @@ footer {
 	right: 17%;
 }
 
+.cow-muzzle {
+	width: 40%;
+	height: 40%;
+	border-radius: 50%;
+	background-color: #f4bcbe;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%);
+}
 
