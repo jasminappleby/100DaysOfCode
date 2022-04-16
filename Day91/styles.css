@@ -64,3 +64,11 @@ footer {
 .cow-wrap.is-pizza .pizza, .cow-wrap.is-pizza .pizza-crust, .cow-wrap.is-pizza .pizza-topping {
 	display: inline-block;
 }
+
+.cow-wrap.is-tie {
+	background-color: #ffb3e3;
+}
+
+.cow-wrap.is-tie .bow, .cow-wrap.is-tie .bow-ear {
+	display: inline-block;
+}
