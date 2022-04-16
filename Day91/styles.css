@@ -419,6 +419,20 @@ footer {
 	right: 43%;
 }
 
+/*  glowing cow */
+
+/* .gem {
+	position: absolute;
+	display: none;
+	top: 76%;
+	left: 50%;
+	transform: translate(-50%) scaleY(-1);
+	color: #fff;
+	font-size: 6vw;
+	text-shadow: 0 0 1rem #fff;
+} */
+
+
 
 /* Buttons */
 
