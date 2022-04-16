@@ -303,6 +303,75 @@ footer {
 	top: -35%;
 }
 
+/* pizza for hungry pizza cow */
+
+
+.pizza, .pizza-crust, .pizza-topping {
+	position: absolute;
+	display: none;
+}
+
+.pizza {
+	width: 30%;
+	text-decoration: none;
+	z-index: 1;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.pizza::before {
+	content: "";
+	position: absolute;
+	top: 100%;
+	right: 1%;
+	width: 50%;
+	height: 7.5vw;
+	background: linear-gradient(to right top, #ffedb3 50%, transparent 50%);
+}
+
+.pizza::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 50%;
+	height: 7.5vw;
+	background: linear-gradient(to left top, #ffedb3 50%, transparent 50%);
+}
+
+.pizza-crust {
+	width: 30%;
+	height: 6%;
+	background-color: #fbc7ad;
+	z-index: 2;
+	top: 92%;
+	left: 50%;
+	transform: translate(-50%);
+	border-radius: 0.5rem;
+}
+
+.pizza-topping {
+	width: 8%;
+	height: 8%;
+	background-color: #f88da5;
+	border-radius: 50%;
+	top: 82%;
+	left: 45%;
+	transform: translate(-50%);
+	z-index: 1;
+}
+
+.pizza-topping--2 {
+	top: 72%;
+	left: 50%;
+}
+
+.pizza-topping--3 {
+	top: 85%;
+	left: 56%;
+}
+
 
 /* Buttons */
 
