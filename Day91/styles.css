@@ -29,3 +29,22 @@ footer {
     height: 2.5rem;
     color: white;
 }
+
+/* COWSSSSS */
+
+.cow-wrap {
+	width: 80%;
+	height: 80%;
+	background-color: #dfb8f1;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 1rem solid #fff;
+}
+
+.cow-wrap.is-party {
+	background-color: #ffc7e4;
+}
+
+.cow-wrap.is-party .party-hat, .cow-wrap.is-party .party-hat-bobble {
+	display: inline-block;
+}
