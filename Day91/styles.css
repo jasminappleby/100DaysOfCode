@@ -116,8 +116,12 @@ footer {
 	background-color: #ffb3e3;
 }
 
-.cow-wrap.is-tie .cow-head, .cow-wrap.is-tie .cow-body, .cow-wrap.is-tie .cow-ear {
-	background-color: #cd8486;
+.cow-wrap.is-glasses .cow-head, .cow-wrap.is-glasses .cow-body, .cow-wrap.is-glasses .cow-ear {
+	background-color: #adb5e1;
+}
+
+.cow-wrap.cow-wrap.is-glasses .cow-eye--left, .cow-wrap.is-glasses .cow-eye--right {
+    background-color: #cd8486;
 }
 
 .cow-wrap.is-glasses .glasses-lense, .cow-wrap.is-glasses .glasses-middle {
@@ -432,7 +436,41 @@ footer {
 	text-shadow: 0 0 1rem #fff;
 } */
 
+/* glasses for my professional friend */
 
+.glasses-lense,
+.glasses-middle {
+	position: absolute;
+	display: none;
+}
+
+.glasses-lense {
+	width: 40%;
+	height: 40%;
+	background-color: rgba(255, 255, 255, 0.25);
+	border-radius: 50%;
+	border: 0.5rem solid #fff;
+	z-index: 1;
+	top: 32%;
+}
+
+.glasses-lense--left {
+	left: 0;
+}
+
+.glasses-lense--right {
+	right: 0;
+}
+
+.glasses-middle {
+	width: 18%;
+	height: 3%;
+	background-color: #fff;
+	z-index: 1;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%);
+}
 
 /* Buttons */
 
