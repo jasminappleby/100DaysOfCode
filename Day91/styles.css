@@ -73,8 +73,18 @@ footer {
 	display: inline-block;
 }
 
+/* tie cow */
+
 .cow-wrap.is-tie {
-	background-color: #ffb3e3;
+    background-color: #5f5768;
+}
+
+.cow-wrap.is-tie .cow-head, .cow-wrap.is-tie .cow-body, .cow-wrap.is-tie .cow-ear {
+    background-color: #cd8486;
+}
+
+.cow-wrap.is-tie .cow-eye--left, .cow-wrap.is-tie .cow-eye--right {
+    background-color: #7139b1;
 }
 
 .cow-wrap.is-tie .bow, .cow-wrap.is-tie .bow-ear {
@@ -106,7 +116,7 @@ footer {
 	background-color: #ffb3e3;
 }
 
-.cow-wrap.is-glasses .cow-head, .cow-wrap.is-glasses .cow-body, .cow-wrap.is-glasses .cow-ear {
+.cow-wrap.is-tie .cow-head, .cow-wrap.is-tie .cow-body, .cow-wrap.is-tie .cow-ear {
 	background-color: #cd8486;
 }
 
@@ -256,7 +266,7 @@ footer {
 	transform: translate(-50%, 0);
 }
 
-/* party hat cowwwww */
+/* party hat */
 
 .party-hat, .party-hat-bobble {
 	display: none;
@@ -370,6 +380,43 @@ footer {
 .pizza-topping--3 {
 	top: 85%;
 	left: 56%;
+}
+
+/* professional bow for a high flying working cow */
+
+.bow, .bow-ear {
+	position: absolute;
+	display: none;
+}
+
+.bow {
+	width: 10%;
+	height: 10%;
+	background-color: #222;
+	border-radius: 50%;
+	z-index: 1;
+	top: 89%;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.bow-ear {
+	width: 15%;
+	height: 13%;
+	background-color: #333;
+	border-radius: 20% 70% 70% 20%;
+	z-index: -1;
+	top: 87%;
+	transform: translate(-50%);
+}
+
+.bow-ear--left {
+	left: 43%;
+}
+
+.bow-ear--right {
+	transform: translate(50%) scaleX(-1);
+	right: 43%;
 }
 
 
