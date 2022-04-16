@@ -48,3 +48,21 @@ footer {
 .cow-wrap.is-party .party-hat, .cow-wrap.is-party .party-hat-bobble {
 	display: inline-block;
 }
+
+.cow-wrap.is-pizza {
+	background-color: #c9a3ff;
+}
+
+.cow-wrap.is-pizza .cow-head, .cow-wrap.is-pizza .cow-body, .cow-wrap.is-pizza .cow-ear {
+	background-color: #ffb3e3;
+}
+
+.cow-wrap.is-pizza .cow-mouth {
+	z-index: 1;
+}
+
+.cow-wrap.is-pizza .pizza,
+.cow-wrap.is-pizza .pizza-crust,
+.cow-wrap.is-pizza .pizza-topping {
+	display: inline-block;
+}
