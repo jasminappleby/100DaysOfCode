@@ -242,3 +242,50 @@ footer {
 	left: 60%;
 	transform: translate(-50%, 0);
 }
+
+/* party hat cowwwww */
+
+.party-hat, .party-hat-bobble {
+	display: none;
+	position: absolute;
+}
+
+.party-hat {
+	width: 30%;
+	background: #f5f7a3;
+	z-index: 1;
+	bottom: 130%;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.party-hat::before {
+	content: "";
+	position: absolute;
+	top: 100%;
+	right: 1%;
+	width: 50%;
+	height: 7.5vw;
+	background: linear-gradient(to right top, #f5f7a3 50%, transparent 50%);
+}
+
+.party-hat::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 50%;
+	height: 7.5vw;
+	background: linear-gradient(to left top, #f5f7a3 50%, transparent 50%);
+}
+
+.party-hat-bobble {
+	width: 10%;
+	height: 10%;
+	background-color: #bffef7;
+	border-radius: 50%;
+	left: 50%;
+	transform: translate(-50%);
+	z-index: 1;
+	top: -35%;
+}
