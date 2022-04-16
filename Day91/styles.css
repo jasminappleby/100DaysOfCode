@@ -72,3 +72,20 @@ footer {
 .cow-wrap.is-tie .bow, .cow-wrap.is-tie .bow-ear {
 	display: inline-block;
 }
+
+.cow-wrap.is-glow {
+	background-color: #c9a3ff;
+}
+
+.cow-wrap.is-glow .cow-head, .cow-wrap.is-glow .cow-body, .cow-wrap.is-glow .cow-ear {
+	background-color: #dfb8f1;
+}
+
+.cow-wrap.is-glow .cow-eye {
+	background-color: #fff;
+	box-shadow: 0 0 1rem #fff;
+}
+
+.cow-wrap.is-glow .gem {
+	display: inline-block;
+}
