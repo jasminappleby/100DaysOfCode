@@ -89,3 +89,22 @@ footer {
 .cow-wrap.is-glow .gem {
 	display: inline-block;
 }
+
+
+.cow-wrap.is-glasses {
+	background-color: #ffb3e3;
+}
+
+.cow-wrap.is-glasses .cow-head, .cow-wrap.is-glasses .cow-body, .cow-wrap.is-glasses .cow-ear {
+	background-color: #cd8486;
+}
+
+.cow-wrap.is-glasses .glasses-lense, .cow-wrap.is-glasses .glasses-middle {
+	display: inline-block;
+}
+
+.cow {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
