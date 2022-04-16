@@ -41,6 +41,8 @@ footer {
 	border: 1rem solid #fff;
 }
 
+/* party hat cow */
+
 .cow-wrap.is-party {
 	background-color: #ffc7e4;
 }
@@ -49,12 +51,18 @@ footer {
 	display: inline-block;
 }
 
+/* pizza cow */
+
 .cow-wrap.is-pizza {
 	background-color: #c9a3ff;
 }
 
 .cow-wrap.is-pizza .cow-head, .cow-wrap.is-pizza .cow-body, .cow-wrap.is-pizza .cow-ear {
-	background-color: #ffb3e3;
+	background-color: #fed1b6;
+}
+
+.cow-wrap.is-pizza .cow-eye--left, .cow-wrap.is-pizza .cow-eye--right {
+    height: 25%;
 }
 
 .cow-wrap.is-pizza .cow-mouth {
@@ -73,6 +81,8 @@ footer {
 	display: inline-block;
 }
 
+/* strange glowing cow i didnt like */
+
 /* .cow-wrap.is-glow {
 	background-color: #c9a3ff;
 }
@@ -90,6 +100,7 @@ footer {
 	display: inline-block;
 } */
 
+/* smart glasses cow */
 
 .cow-wrap.is-glasses {
 	background-color: #ffb3e3;
@@ -102,6 +113,8 @@ footer {
 .cow-wrap.is-glasses .glasses-lense, .cow-wrap.is-glasses .glasses-middle {
 	display: inline-block;
 }
+
+/* cow cow, moooooo */
 
 .cow {
 	width: 100%;
