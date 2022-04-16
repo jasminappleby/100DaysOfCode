@@ -232,3 +232,13 @@ footer {
 	right: 44%;
 	transform: rotate(30deg);
 }
+
+.cow-body {
+	width: 65%;
+	height: 50%;
+	background-color: #fff;
+	border-radius: 60% 60% 50% 50%;
+	top: 60%;
+	left: 60%;
+	transform: translate(-50%, 0);
+}
