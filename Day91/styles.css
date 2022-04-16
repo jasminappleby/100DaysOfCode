@@ -108,3 +108,18 @@ footer {
 	height: 100%;
 	position: relative;
 }
+
+.cow-head, .cow-body, .cow-ears, .cow-ear, .cow-horns, .cow-horn, .cow-horn::before, .cow-eyes, .cow-eye, .cow-muzzle, .cow-mouth, .cow-mouth-line, .cow-mouth-moo {
+	position: absolute;
+}
+
+.cow-head {
+	width: 70%;
+	height: 65%;
+	background-color: #fff;
+	border-radius: 50% 50% 40% 40%;
+	top: 25%;
+	left: 50%;
+	transform: translate(-50%, 0);
+	z-index: 1;
+}
