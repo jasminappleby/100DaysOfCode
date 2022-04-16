@@ -171,10 +171,10 @@ footer {
 
 .cow-horn--left {
 	left: 0;
-	transform: rotate(-60deg);
+	transform: rotate(-40deg);
 }
 
 .cow-horn--right {
 	right: 0;
-	transform: rotate(60deg) scaleX(-1);
+	transform: rotate(40deg) scaleX(-1);
 }
