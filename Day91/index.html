@@ -22,6 +22,12 @@
                 </div>
             </div>
         </div>
+         
+        <div class="controls" v-cloak>    
+            <button type="button" class="controls-button" :class="{'is-active': selected === button.name}" :key="button.name" v-for="button in types" @click="changeType(button.name)">
+                <i class="fas" :class="button.icon"></i>
+            </button>
+        </div>
     </div>
 </body>
 </html>
