@@ -73,3 +73,5 @@ function getUserInfo(cb) {
 		});
 }
 
+millisToMinutesAndSeconds();
+getUserInfo();
