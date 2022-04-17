@@ -25,3 +25,26 @@ getUserInfo((lngLat) => {
 	let {str, changed} = millisToMinutesAndSeconds(todayLength - shortLength);
 	document.querySelector("h1").innerText = `${str} ${changed}`;
 });
+
+
+function millisToMinutesAndSeconds(ms, label = ["shorter","longer"]) {
+	const changed = ms < 0 ? label[0] : label[1]
+	ms = Math.abs(ms);
+	var d = new Date(1000 * Math.round(ms / 1000)); // round to nearest second
+	const h =
+		d.getUTCHours() > 0
+			? `${d.getUTCHours()} hour${d.getUTCHours() > 1 ? "s" : ""}`
+			: "";
+	const m =
+		d.getUTCMinutes() > 0
+			? `${d.getUTCMinutes()} minute${d.getUTCMinutes() > 1 ? "s" : ""}`
+			: "";
+	const s =
+		d.getUTCSeconds() > 0
+			? `${d.getUTCSeconds()} second${d.getUTCSeconds() > 1 ? "s" : ""}`
+			: "";
+	const and2 = (m !== "" || h !== "") && s !== '' ? " and " : "";
+	const and1 = h !== "" ? " and " : "";
+	return {str: `${h}${and1}${m}${and2}${s}`, changed};
+	
+}
