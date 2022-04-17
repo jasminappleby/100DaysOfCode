@@ -48,3 +48,28 @@ function millisToMinutesAndSeconds(ms, label = ["shorter","longer"]) {
 	return {str: `${h}${and1}${m}${and2}${s}`, changed};
 	
 }
+
+function getUserInfo(cb) {
+	fetch("https://ipinfo.io/json")
+		.then((res) => res.json())
+		.catch((err) => {
+			return {
+				ip: "85.83.129.143",
+				city: "Skodstrup",
+				region: "Central Jutland",
+				country: "DK",
+				loc: "56.2635,10.3041",
+				postal: "8541"
+			};
+			cannotRetrieveLocation = true;
+		})
+		.then((json) => {
+			const temp = { ...json.loc.split(",") };
+			const latLng = {
+				lat: parseFloat(temp[0]),
+				lng: parseFloat(temp[1])
+			};
+			cb(latLng);
+		});
+}
+
