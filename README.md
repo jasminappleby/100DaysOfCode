@@ -36,6 +36,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 
 - Day 92, literally so confused why this doesnt work but its 8:44am so i need to let my brain defrost and try again later
 
+Day 93 - took a break from the 100DOC tasks to focus on a private project, however did make some minor code tweaks to Day 63, nothing that would change the appearance of the site, so no need to rehost it :) 
+
  -->
 ## Contents
 
