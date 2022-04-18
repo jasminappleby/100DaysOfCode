@@ -106,8 +106,8 @@ body {
 } 
 
 .face:last-of-type {
-	 transform: translateZ(-3px) rotateY(180deg);
-	 background-size: 130% auto;
+	transform: translateZ(-3px) rotateY(180deg);
+	background-size: 130% auto;
 }
 
 .front h1 {
