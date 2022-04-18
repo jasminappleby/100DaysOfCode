@@ -109,9 +109,6 @@ body {
 	 transform: translateZ(-3px) rotateY(180deg);
 	 background-size: 130% auto;
 }
- 
-/* .front {
-} */
 
 .front h1 {
 	position: relative;
