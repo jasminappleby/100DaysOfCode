@@ -15,7 +15,7 @@
     --yellow: #ffd91a;
     --blue: #1a66ff;
     --steel: #1c2022;
-    --game-size: min(400px, 25px);
+    --game-size: min(400px, 50vh);
     --spacing: 8px;
 }
 
@@ -95,7 +95,10 @@ header, footer {
 .info-block>* {
 	display: flex;
 	align-items: center;
-	font-size: var(--text-size);
+}
+
+.small {
+    font-size: small;
 }
 
 .info-block>*+* {
