@@ -138,7 +138,7 @@ Day 93 - took a break from the 100DOC tasks to focus on a private project, howev
 | 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](https://pixelated-heat-map.netlify.app)|
 | 91 |[Moo, the Sweet Cow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](https://moo-the-sweet-cow.netlify.app)|
 | 92 |[Shorter or Longer Days?](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Image](imgs&gifs/day92.png)|
-| 93 |[Nintendo Switch UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](#)|
+| 93 |[Nintendo Switch UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](https://nintendo-switch-ui.netlify.app/#legends-arceus)|
 | 94 |[Your Local Weather](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Website](#)|
 | 95 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Website](#)|
 | 96 |[Scratch Off](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day96)|[Website](#)|
