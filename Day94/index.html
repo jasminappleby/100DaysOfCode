@@ -13,8 +13,42 @@
     <div id="main">
         <h1>Your Weather</h1>
         <div class="visual-only" aria-hidden="true">
-
+                <div id="quick-view">
+                    <div id="weather-icons">
+                    <i class="wi"></i>
+                    <i class="wi"></i>
+                </div>
+            
+                <div id="loading">
+                    Loading<span>.</span><span>.</span><span>.</span>
+                </div>
+            
+                <span id="tempF" class="show">
+                <span></span>
+                    <i class='wi wi-fahrenheit'></i>
+                </span>
+            
+                <span id="tempC" class="hide">
+                <span></span>
+                    <i class='wi wi-celsius'></i>
+                </span>
+                </div>
+            <div id="grid">
+                <div id="location">…</div>
+                <div id="status">…</div>
+                <div id="wind">
+                <span class="compass">
+                    <i class="wi">…</i>
+                </span>
+                <span id="miles" class="show"></span>
+                <span id="meters" class="hide"></span>
+                </div>
+            </div>
+            <button>C / F</button>
         </div>
+        <p class="visually-hidden">
+            Weather data currently unavailable.
+        </p>
     </div>
 </body>
 </html>
