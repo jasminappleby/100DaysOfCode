@@ -2,6 +2,9 @@
 Going to attempt to do 100 Days Of Code, starting on the 12th Jan 2022
 
 Feel free to tweak or play around with any of my code, or have a look at any of the sites I have created! :) 
+
+*ON HOLIDAY FROM 21ST APRIL - 28TH APRIL. WIFI IS VERY BAD. LIKELY TO MAKE NO COMMITS!*
+
 <!--  
 
 ## Edit notes
