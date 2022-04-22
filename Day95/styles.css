@@ -116,3 +116,16 @@ p {
 
 	position: relative;
 }
+
+.timeline .carousel-cell:before, .timeline .carousel-cell:after, .timeline .carousel-cell .img-wrapper:before, .timeline .carousel-cell .img-wrapper:after {
+	content: "";
+	border-radius: 50%;
+	background-color: rgba(58, 58, 58, 0.5);
+	box-shadow: inset 0 2px 0 rgb(0 0 0 / 20%);
+	display: block;
+	height: 6px;
+	overflow: hidden;
+	position: absolute;
+	width: 6px;
+	z-index: 100;
+}
