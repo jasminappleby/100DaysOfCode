@@ -211,3 +211,124 @@ p {
 	position: relative;
 	z-index: 0;
 }
+
+/* buttons */
+
+.flickity-button:hover {
+	background: red;
+	cursor: pointer;
+}
+
+.flickity-prev-next-button {
+	top: 0;
+	bottom: 0;
+	width: 60px;
+	height: 60px;
+	transform: none;
+	background: red;
+	display: flex;
+	align-items: center;
+	top: 50%;
+	transform: translateY(-50%);
+	transition: all 0.2s ease;
+}
+
+.flickity-prev-next-button.previous {
+	left: -10px;
+	border-radius: 0% 60px 60px 0%;
+	justify-content: flex-end;
+}
+
+.flickity-prev-next-button.next:hover {
+	right: 0;
+}
+
+.flickity-prev-next-button.previous:hover {
+	left: 0;
+}
+
+.flickity-prev-next-button.next {
+	right: -10px;
+	border-radius: 60px 0% 0% 60px;
+	justify-content: flex-start;
+}
+
+/* right to left */
+.flickity-rtl .flickity-prev-next-button.previous {
+	left: auto;
+	right: 0;
+}
+
+.flickity-rtl .flickity-prev-next-button.next {
+	right: auto;
+	left: 0;
+}
+
+.flickity-prev-next-button .flickity-button-icon {
+	position: absolute;
+	left: auto;
+	top: auto;
+	width: 40%;
+	height: 40%;
+	fill: white;
+	margin: 12px;
+}
+
+.flickity-page-dots {
+	display: none;
+}
+
+.timeline-desc {
+	width: 100%;
+	height: auto;
+	position: relative;
+	background: url(https://mario.nintendo.com/static/pattern-logos-characters-bd1f26898b2027c98ce8ba17c084f523.png),
+		linear-gradient(0deg, #b20722, #e70112);
+}
+
+.timeline-desc .carousel {
+	width: 100%;
+}
+
+.timeline-desc .carousel-cell {
+	width: 100%;
+}
+
+.timeline-desc .carousel-cell .card {
+	width: 90%;
+	margin: 40px auto;
+	padding: 0 40px 0;
+	border-radius: 8px;
+	border: 1px solid #f0f0f0;
+	background: white;
+	height: 400px;
+	overflow: scroll;
+	position: relative;
+}
+
+.timeline-desc .carousel-cell .card h3 {
+	font-size: 38px;
+	margin-bottom: calc(var(--img-padding) * 1.5);
+	position: sticky;
+	top: 0;
+	background: white;
+	padding-top: calc(var(--img-padding) * 2);
+	line-height: 1;
+}
+
+.timeline-desc .carousel-cell .card h3:before {
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: calc(var(--img-padding) * 1.5);
+	/*    border: 1px solid red;*/
+	bottom: calc(calc(var(--img-padding) * 1.5) * -1);
+	background: linear-gradient(
+		to bottom,
+		rgba(255, 255, 255, 1),
+		rgba(255, 255, 255, 0)
+	);
+}
+.timeline-desc .flickity-button {
+	display: none;
+}
