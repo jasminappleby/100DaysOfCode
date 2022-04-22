@@ -78,3 +78,14 @@ p {
 	position: absolute;
 	z-index: 100;
 }
+
+.timeline:before {
+	left: 0;
+	transform-origin: center center;
+	transform: scaleX(-1);
+}
+
+.timeline:after {
+	right: 0;
+}
+
