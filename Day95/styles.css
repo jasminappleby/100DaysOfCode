@@ -89,3 +89,30 @@ p {
 	right: 0;
 }
 
+.timeline .carousel {
+	/*    border: 1px solid red;*/
+	width: 76%;
+	height: calc(var(--img-height) + calc(var(--img-padding) * 8));
+}
+
+.timeline .carousel-cell {
+	background: white;
+	border-radius: 8px;
+	width: calc(var(--img-width) + calc(var(--img-padding) * 2));
+	height: calc(var(--img-height) + calc(var(--img-padding) * 2));
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 0 0 4px transparent, 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+	margin-top: calc(var(--img-padding) * 4);
+}
+
+.timeline .carousel-cell .img-wrapper {
+	/*    padding: 20px;*/
+	background: white;
+	border-radius: 8px;
+
+	position: relative;
+}
