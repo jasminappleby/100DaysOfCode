@@ -11,3 +11,31 @@
 	--img-height: 174px;
 	--img-padding: 20px;
 }
+
+body {
+	font-family: "Catamaran", sans-serif;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	height: 100%;
+	background: repeating-linear-gradient(-45deg,#f6f6f6,#f6f6f6 6px,#f0f0f0 0,#f0f0f0 12px);
+	color: #070707;
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin: calc(var(--img-padding) * 4) 0 calc(var(--img-padding) * 2);
+}
+
+footer {
+    font-family: "Catamaran", sans-serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
