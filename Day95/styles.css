@@ -34,7 +34,7 @@ body {
 
 footer {
     font-family: "Catamaran", sans-serif;
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
     height: 2.5rem;
@@ -51,4 +51,30 @@ p {
 	font-weight: 400;
 	margin-bottom: 20px;
 	line-height: 1.5;
+}
+
+.flickity-viewport {
+	overflow: visible;
+}
+
+.timeline {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	margin-bottom: calc(var(--img-padding) * 2);
+}
+
+.timeline:before, .timeline:after {
+	display: block;
+	background: url(https://mario.nintendo.com/static/pipe-2x-1a62c181bb0bcd6a84b8b0dd4e31d490.png) no-repeat 0 0;
+	position: absolute;
+	content: "";
+	background-size: auto 100%;
+	background-position: left center;
+	width: 12%;
+	height: 100%;
+	position: absolute;
+	z-index: 100;
 }
