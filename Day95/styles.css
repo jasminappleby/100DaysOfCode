@@ -129,3 +129,38 @@ p {
 	width: 6px;
 	z-index: 100;
 }
+
+.timeline .carousel-cell:before,
+.timeline .carousel-cell:after {
+	bottom: 8px;
+}
+
+.timeline .carousel-cell:before {
+	left: 8px;
+}
+
+.timeline .carousel-cell:after {
+	right: 8px;
+}
+
+.timeline .carousel-cell .img-wrapper:before,
+.timeline .carousel-cell .img-wrapper:after {
+	top: -12px;
+}
+
+.timeline .carousel-cell .img-wrapper:before {
+	left: -12px;
+}
+
+.timeline .carousel-cell .img-wrapper:after {
+	right: -12px;
+}
+
+.timeline .carousel-cell .img-wrapper img {
+	display: block;
+	width: var(--img-width);
+	height: var(--img-height);
+	height: auto;
+	border-radius: 4px;
+	position: relative;
+}
