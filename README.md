@@ -129,7 +129,7 @@ Day 93 - took a break from the 100DOC tasks to focus on a private project, howev
 | 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](https://newtons-cradle.netlify.app)|
 | 79 |[Music UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day79)|[Website](https://music-player-ui.netlify.app)|
 | 80 |[Rock, Paper, Scissors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day80)|[Website](https://rocky-papery-scissory.netlify.app)|
-| 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Image](imgs&gifs/day81.png)|
+| 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Image](imgs&gifs/day81.png) <!-- Image --> |
 | 82 |[Jasmindle (Wordle Clone)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day82)|[Website](https://jasmindle.netlify.app)|
 | 83 |[Cherry Blossoms](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](https://cherry-blossoms.netlify.app)|
 | 84 |[iMessage UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](imgs&gifs/day84.png)|
@@ -140,12 +140,12 @@ Day 93 - took a break from the 100DOC tasks to focus on a private project, howev
 | 89 |[Light Switch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](https://switch-off-the-light.netlify.app)|
 | 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](https://pixelated-heat-map.netlify.app)|
 | 91 |[Moo, the Sweet Cow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](https://moo-the-sweet-cow.netlify.app)|
-| 92 |[Shorter or Longer Days?](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Image](imgs&gifs/day92.png)|
+| 92 |[Shorter or Longer Days?](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Image](imgs&gifs/day92.png) <!-- Image --> |
 | 93 |[Nintendo Switch UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](https://nintendo-switch-ui.netlify.app/#legends-arceus)|
-| 94 |[Your Local Weather](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Image](imgs&gifs/day94.png)|
+| 94 |[Your Local Weather](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Image](imgs&gifs/day94.png) <!-- Image --> |
 | 95 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Website](#)|
 | 96 |[Scratch Off](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day96)|[Website](#)|
-| 97 |[Day 97](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Website](#) <!-- Likely will be on holiday from here so days may be missed? --> |
+| 97 |[Day 97](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Website](#)|
 | 98 |[Day 98](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](#)|
 | 99 |[Day 99](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day99)|[Website](#)|
 | 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day100)|[Website]()|
