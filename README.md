@@ -41,6 +41,8 @@ Feel free to tweak or play around with any of my code, or have a look at any of 
 
 Day 93 - took a break from the 100DOC tasks to focus on a private project, however did make some minor code tweaks to Day 63, nothing that would change the appearance of the site, so no need to rehost it :) 
 
+Day 95 did not go to plan...
+
  -->
 ## Contents
 
@@ -143,7 +145,7 @@ Day 93 - took a break from the 100DOC tasks to focus on a private project, howev
 | 92 |[Shorter or Longer Days?](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day92)|[Image](imgs&gifs/day92.png) <!-- Image --> |
 | 93 |[Nintendo Switch UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day93)|[Website](https://nintendo-switch-ui.netlify.app/#legends-arceus)|
 | 94 |[Your Local Weather](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Image](imgs&gifs/day94.png) <!-- Image --> |
-| 95 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Website](#)|
+| 95 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Image](imgs&gfs/day95.png) <!-- Image --> |
 | 96 |[Scratch Off](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day96)|[Website](#)|
 | 97 |[Day 97](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Website](#)|
 | 98 |[Day 98](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](#)|
