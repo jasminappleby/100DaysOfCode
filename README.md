@@ -150,6 +150,6 @@ Day 95 did not go to plan...
 | 97 |[Day 97](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Image](imgs&gifs/day97.png) <!-- Image --> |
 | 98 |[Day 98](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](https://svg-progress.netlify.app)|
 | 99 |[Day 99](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day99)|[Website](https://cursor-watcher.netlify.app)|
-| 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day100)|[Website]()|
+| 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/eDay100)|[Website]()|
 
 
