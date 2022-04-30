@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+:root {
+    --eyeSize: 90px;
+    --eye-margin: 30px;
+    --eyeColor: #247390;
+    --borderColor: #000000;
+    --backgroundColor: #165b35;
+}
