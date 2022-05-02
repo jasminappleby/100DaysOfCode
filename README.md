@@ -73,7 +73,7 @@ Day 95 did not go to plan...
 | 20 |[Dice Game](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day20)|[Website](https://rolling-die-game.netlify.app)|
 | 21 |[Key Events](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day21)|[Website](https://laughing-montalcini-95e930.netlify.app)|
 | 22 |[Tic Tac Toe](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day22)|[Website](https://tic-tac-toe-jasmin.netlify.app)|
-| 23 |[Notes App](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day23)|[Website](https://app.netlify.com/sites/notes-app-jasmin/settings/general)|
+| 23 |[Notes App](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day23)|[Website](https://notes-app-jasmin.netlify.app)|
 | 24 |[Password Generator](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day24)|[Website](https://password-generator-jasmin.netlify.app)|
 | 25 |[Ripple Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day25)|[Website](https://unruffled-ramanujan-974bbb.netlify.app)|
 | 26 |[YouTube to MP3](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day26)|[Website](https://yt2mp3.netlify.app)|
