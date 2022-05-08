@@ -1,0 +1,8 @@
+.fa { 
+    font-size: xx-large;
+}
+
+.fa:hover {
+    color: rgb(103, 103, 103);
+    transition: color .5s;
+}
