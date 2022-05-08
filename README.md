@@ -131,14 +131,14 @@ Day 95 did not go to plan...
 | 78 |[Newton's Light Bulbs](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day78)|[Website](https://newtons-cradle.netlify.app)|
 | 79 |[Music UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day79)|[Website](https://music-player-ui.netlify.app)|
 | 80 |[Rock, Paper, Scissors](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day80)|[Website](https://rocky-papery-scissory.netlify.app)|
-| 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Image](imgs&gifs/day81.png) <!-- Image --> |
+| 81 |[Download Button](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day81)|[Image](imgs&gifs/day81.gif) <!-- Gif --> |
 | 82 |[Jasmindle (Wordle Clone)](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day82)|[Website](https://jasmindle.netlify.app)|
 | 83 |[Cherry Blossoms](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day83)|[Website](https://cherry-blossoms.netlify.app)|
 | 84 |[iMessage UI](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day84)|[Website](imgs&gifs/day84.png)|
 | 85 |[DAL Airlines Loader](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day85)|[Website](https://dal-airlines-loader.netlify.app)|
 | 86 |[Scroll Effect](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day86)|[Website](https://scroll-down-the-screen.netlify.app)|
 | 87 |[Fingerprint Scanner](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day87)|[Website](https://fingerprint-scanner.netlify.app)|
-| 88 |[Wordle Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](https://app.netlify.com/sites/wordle-clock/settings/general)|
+| 88 |[Wordle Time](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day88)|[Website](https://wordle-clock.netlify.app)|
 | 89 |[Light Switch](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day89)|[Website](https://switch-off-the-light.netlify.app)|
 | 90 |[Pixelated Heat Map](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day90)|[Website](https://pixelated-heat-map.netlify.app)|
 | 91 |[Moo, the Sweet Cow](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day91)|[Website](https://moo-the-sweet-cow.netlify.app)|
