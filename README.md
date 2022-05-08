@@ -147,8 +147,8 @@ Day 95 did not go to plan...
 | 94 |[Your Local Weather](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day94)|[Image](imgs&gifs/day94.png) <!-- Image --> |
 | 95 |[Game Timeline](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day95)|[Image](imgs&gifs/day95.png) <!-- Image --> |
 | 96 |[Scratch Off](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day96)|[Video](imgs&gifs/day96.mov) <!-- Video --> |
-| 97 |[Day 97](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Image](imgs&gifs/day97.png) <!-- Image --> |
-| 98 |[Day 98](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](https://svg-progress.netlify.app)|
+| 97 |[BEACH](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Image](imgs&gifs/day97.png) <!-- Image --> |
+| 98 |[SVG Progress](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](https://svg-progress.netlify.app)|
 | 99 |[Day 99](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day99)|[Website](https://cursor-watcher.netlify.app)|
 | 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/eDay100)|[Website]()|
 
