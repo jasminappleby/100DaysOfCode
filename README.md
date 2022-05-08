@@ -3,8 +3,6 @@ Going to attempt to do 100 Days Of Code, starting on the 12th Jan 2022
 
 Feel free to tweak or play around with any of my code, or have a look at any of the sites I have created! :) 
 
-*ON HOLIDAY FROM 21ST APRIL - 28TH APRIL. WIFI IS VERY BAD. LIKELY TO MAKE NO COMMITS!*
-
 <!--  
 
 ## Edit notes
@@ -150,6 +148,6 @@ Day 95 did not go to plan...
 | 97 |[BEACH](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day97)|[Image](imgs&gifs/day97.png) <!-- Image --> |
 | 98 |[SVG Progress](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day98)|[Website](https://svg-progress.netlify.app)|
 | 99 |[Day 99](https://github.com/jasminappleby/100DaysOfCode/tree/main/Day99)|[Website](https://cursor-watcher.netlify.app)|
-| 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/eDay100)|[Website]()|
+| 100 |[Full Project Archive](https://github.com/jasminappleby/100DaysOfCode/tree/main/eDay100)|[Website](https://100-days-of-code-archive.netlify.app)|
 
 
